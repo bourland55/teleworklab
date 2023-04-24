@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Telework Request">9dfff95087671950ee58fcc7dabb35b2</catalog_item>
+        <catalog_variable>IO:b8dc533a876bdd10ee58fcc7dabb3505</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-07 21:04:18</sys_created_on>
+        <sys_id>1ce1677287abdd10ee58fcc7dabb354f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>telework_multi_row_questions</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_1ce1677287abdd10ee58fcc7dabb354f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-07 21:04:18</sys_updated_on>
+        <table/>
+        <ui_policy display_value="make MRVS appear if choosing a few people">9fb1e33287abdd10ee58fcc7dabb3571</ui_policy>
+        <variable>telework_multi_row_questions</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

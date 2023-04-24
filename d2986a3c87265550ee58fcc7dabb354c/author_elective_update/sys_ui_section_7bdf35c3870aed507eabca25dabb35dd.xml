@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Project Plan Refinement" section_id="7bdf35c3870aed507eabca25dabb35dd" sys_domain="global" table="x_snc_db_telewor_0_telework_case" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>agile_story</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-11 15:11:25</sys_created_on>
+            <sys_id>88ef35c3870aed507eabca25dabb35e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Plan Refinement" display_value="Project Plan Refinement" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="Default view">7bdf35c3870aed507eabca25dabb35dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-11 15:11:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-11 15:11:25</sys_created_on>
+            <sys_id>80ef35c3870aed507eabca25dabb35e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Plan Refinement" display_value="Project Plan Refinement" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="Default view">7bdf35c3870aed507eabca25dabb35dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-11 15:11:25</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>agile_story.state</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-11 15:11:25</sys_created_on>
+            <sys_id>84ef35c3870aed507eabca25dabb35e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Project Plan Refinement" display_value="Project Plan Refinement" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="Default view">7bdf35c3870aed507eabca25dabb35dd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-11 15:11:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Project Plan Refinement</caption>
+            <header>false</header>
+            <name>x_snc_db_telewor_0_telework_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-11 15:11:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7bdf35c3870aed507eabca25dabb35dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_db_telewor_0_telework_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+            <sys_update_name>sys_ui_section_7bdf35c3870aed507eabca25dabb35dd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-11 15:11:24</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>a8a0b22edbda91944d2bac44d49619ab</instance_id>
+        <instance_name>db6tokyodemo</instance_name>
+        <name>sys_ui_section_7bdf35c3870aed507eabca25dabb35dd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Project Plan Refinement" section_id="7bdf35c3870aed507eabca25dabb35dd" sys_domain="global" table="x_snc_db_telewor_0_telework_case" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>agile_story</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-11 15:11:25</sys_created_on><sys_id>88ef35c3870aed507eabca25dabb35e7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Project Plan Refinement" display_value="Project Plan Refinement" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="Default view">7bdf35c3870aed507eabca25dabb35dd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-11 15:11:25</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-11 15:11:25</sys_created_on><sys_id>80ef35c3870aed507eabca25dabb35e8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Project Plan Refinement" display_value="Project Plan Refinement" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="Default view">7bdf35c3870aed507eabca25dabb35dd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-11 15:11:25</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>agile_story.state</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-11 15:11:25</sys_created_on><sys_id>84ef35c3870aed507eabca25dabb35e8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Project Plan Refinement" display_value="Project Plan Refinement" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="Default view">7bdf35c3870aed507eabca25dabb35dd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-11 15:11:25</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Project Plan Refinement</caption><header>false</header><name>x_snc_db_telewor_0_telework_case</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-04-11 15:11:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7bdf35c3870aed507eabca25dabb35dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_db_telewor_0_telework_case</sys_name><sys_overrides/><sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package><sys_policy/><sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope><sys_update_name>sys_ui_section_7bdf35c3870aed507eabca25dabb35dd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-04-11 15:11:24</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-2115992236</payload_hash>
+        <record_name>Telework Case</record_name>
+        <reverted_from/>
+        <source>d6986a3c87265550ee58fcc7dabb3550</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-11 15:11:25</sys_created_on>
+        <sys_id>04ef75c3870aed507eabca25dabb3503</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18770df26600000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-11 15:11:25</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>8cef75c3fe0aed50c1389f6a0a358a02</update_guid>
+        <update_guid_history>8cef75c3fe0aed50c1389f6a0a358a02:-2115992236</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-11 15:20:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>392303abea3b4478856019adb7832c40</sys_id>
+        <sys_metadata>7bdf35c3870aed507eabca25dabb35dd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project Plan Refinement</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent display_value="Telework Case">faa966fc87265550ee58fcc7dabb352f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_7bdf35c3870aed507eabca25dabb35dd</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_7bdf35c3870aed507eabca25dabb35dd">04ef75c3870aed507eabca25dabb3503</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-11 15:20:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

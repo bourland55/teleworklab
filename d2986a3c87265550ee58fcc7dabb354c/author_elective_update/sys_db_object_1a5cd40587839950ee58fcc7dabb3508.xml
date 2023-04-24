@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>DD2875 AKA SAAR-N</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_db_telewor_0_dd2875_aka_saar_n</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-06 23:40:22</sys_created_on>
+        <sys_id>1a5cd40587839950ee58fcc7dabb3508</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Db Telewor 0 Dd2875 Aka Saar N</sys_name>
+        <sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_db_object_1a5cd40587839950ee58fcc7dabb3508</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-06 23:40:22</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>a8a0b22edbda91944d2bac44d49619ab</instance_id>
+        <instance_name>db6tokyodemo</instance_name>
+        <name>sys_db_object_1a5cd40587839950ee58fcc7dabb3508</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>DD2875 AKA SAAR-N</label><live_feed_enabled>false</live_feed_enabled><name>x_snc_db_telewor_0_dd2875_aka_saar_n</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-06 23:40:22</sys_created_on><sys_id>1a5cd40587839950ee58fcc7dabb3508</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Db Telewor 0 Dd2875 Aka Saar N</sys_name><sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package><sys_policy/><sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope><sys_update_name>sys_db_object_1a5cd40587839950ee58fcc7dabb3508</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-06 23:40:22</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>1921998868</payload_hash>
+        <record_name>DD2875 AKA SAAR-N</record_name>
+        <reverted_from/>
+        <source>d6986a3c87265550ee58fcc7dabb3550</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-06 23:40:23</sys_created_on>
+        <sys_id>1a5cd40587839950ee58fcc7dabb3555</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1844f510eb40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-06 23:40:23</sys_updated_on>
+        <type>Table</type>
+        <update_guid>925cd4058b83995034b1a2245248a155</update_guid>
+        <update_guid_history>925cd4058b83995034b1a2245248a155:1921998868</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-24 02:48:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>4385a17b45cc4478905e92ba0aacfc40</sys_id>
+        <sys_metadata>1a5cd40587839950ee58fcc7dabb3508</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Db Telewor 0 Dd2875 Aka Saar N</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>sys_db_object_1a5cd40587839950ee58fcc7dabb3508</sys_update_name>
+        <sys_update_version display_value="sys_db_object_1a5cd40587839950ee58fcc7dabb3508">1a5cd40587839950ee58fcc7dabb3555</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-24 02:48:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

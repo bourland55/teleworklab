@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b3df35c3870aed507eabca25dabb35df" sys_domain="global" table="x_snc_db_telewor_0_telework_case" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-11 15:11:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88ef35c3870aed507eabca25dabb35e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_db_telewor_0_telework_case" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="Default view">b3df35c3870aed507eabca25dabb35df</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="Default view">a0c962fc87265550ee58fcc7dabb35e2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-11 15:11:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_db_telewor_0_telework_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-04-11 15:11:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3df35c3870aed507eabca25dabb35df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_db_telewor_0_telework_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b3df35c3870aed507eabca25dabb35df</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-04-11 15:11:24</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

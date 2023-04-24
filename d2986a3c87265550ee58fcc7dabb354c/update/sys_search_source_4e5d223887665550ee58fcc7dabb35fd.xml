@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <condition table="x_snc_db_telewor_0_arrangement">active=true</condition>
+        <group/>
+        <name>DB Telework Request - x_snc_db_telewor_0_arrangeme</name>
+        <roles/>
+        <source_table>x_snc_db_telewor_0_arrangement</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-12 19:03:59</sys_created_on>
+        <sys_id>4e5d223887665550ee58fcc7dabb35fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DB Telework Request - x_snc_db_telewor_0_arrangeme</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_search_source_4e5d223887665550ee58fcc7dabb35fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-12 19:03:59</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=4e5d223887665550ee58fcc7dabb35fd"/>
+</record_update>

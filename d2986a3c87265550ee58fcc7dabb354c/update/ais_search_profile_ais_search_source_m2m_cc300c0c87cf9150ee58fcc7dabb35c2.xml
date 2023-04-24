@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="DB Telework Request TEST search profile">2120880ce3cf915046d1a8569abb4bae</profile>
+        <search_source display_value="Arrangement">1b5da23887665550ee58fcc7dabb3592</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 19:03:24</sys_created_on>
+        <sys_id>cc300c0c87cf9150ee58fcc7dabb35c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DB Telework Request TEST search profile.Arrangement</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_cc300c0c87cf9150ee58fcc7dabb35c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 19:03:24</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">c51da2b4de6655507dca14b70e7159df</canvas>
+        <component display_value="Donut">a2b0596cec6b9d49dd1ff9bf76b5084b</component>
+        <component_props>{"configVersion":"22.1.7","showDataLabels":false,"dataLabelsType":"both","truncationType":"end","showRegister":true,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":false,"showRegisterValue":false,"legendHorizontalAlignment":"center","legendExpandToFit":false,"showRegisterPercentage":false,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Telework Case","sourceType":"table","tableOrViewName":"x_snc_db_telewor_0_telework_case","id":"dGFibGV4X3NuY19kYl90ZWxld29yXzBfdGVsZXdvcmtfY2FzZTE2NjY3MjA2OTM0MTk=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Reasons","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X3NuY19kYl90ZWxld29yXzBfdGVsZXdvcmtfY2FzZTE2NjY3MjA2OTM0MTk=","id":"ZEdGaWJHVjRYM051WTE5a1lsOTBaV3hsZDI5eVh6QmZkR1ZzWlhkdmNtdGZZMkZ6WlRFMk5qWTNNakEyT1RNME1Uaz0xNjY2NzIwNjk1NDYx","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"groupBy":[{"dataSource":"dGFibGV4X3NuY19kYl90ZWxld29yXzBfdGVsZXdvcmtfY2FzZTE2NjY3MjA2OTM0MTk=","groupByField":"reason","isRange":false,"isChoice":true,"isPaBucket":false}],"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"showTotalValue":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default"}</component_props>
+        <h>9</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 18:02:26</sys_created_on>
+        <sys_id>43ebd90987be5910ee58fcc7dabb359f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>par_dashboard_widget_43ebd90987be5910ee58fcc7dabb359f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-25 18:02:26</sys_updated_on>
+        <visualization/>
+        <w>2</w>
+        <x>2</x>
+        <y>6</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>a8a0b22edbda91944d2bac44d49619ab</instance_id>
+        <instance_name>db6tokyodemo</instance_name>
+        <name>par_dashboard_widget_43ebd90987be5910ee58fcc7dabb359f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">c51da2b4de6655507dca14b70e7159df</canvas><component display_value="Donut">a2b0596cec6b9d49dd1ff9bf76b5084b</component><component_props>{"configVersion":"22.1.7","showDataLabels":false,"dataLabelsType":"both","truncationType":"end","showRegister":true,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":false,"showRegisterValue":false,"legendHorizontalAlignment":"center","legendExpandToFit":false,"showRegisterPercentage":false,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Telework Case","sourceType":"table","tableOrViewName":"x_snc_db_telewor_0_telework_case","id":"dGFibGV4X3NuY19kYl90ZWxld29yXzBfdGVsZXdvcmtfY2FzZTE2NjY3MjA2OTM0MTk=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Reasons","showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X3NuY19kYl90ZWxld29yXzBfdGVsZXdvcmtfY2FzZTE2NjY3MjA2OTM0MTk=","id":"ZEdGaWJHVjRYM051WTE5a1lsOTBaV3hsZDI5eVh6QmZkR1ZzWlhkdmNtdGZZMkZ6WlRFMk5qWTNNakEyT1RNME1Uaz0xNjY2NzIwNjk1NDYx","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"groupBy":[{"dataSource":"dGFibGV4X3NuY19kYl90ZWxld29yXzBfdGVsZXdvcmtfY2FzZTE2NjY3MjA2OTM0MTk=","groupByField":"reason","isRange":false,"isChoice":true,"isPaBucket":false}],"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"showTotalValue":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":false,"period":"M","dateFormat":"default"}</component_props><h>9</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-25 18:02:26</sys_created_on><sys_id>43ebd90987be5910ee58fcc7dabb359f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package><sys_policy/><sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope><sys_update_name>par_dashboard_widget_43ebd90987be5910ee58fcc7dabb359f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-25 18:02:26</sys_updated_on><visualization/><w>2</w><x>2</x><y>6</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-127971844</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>d6986a3c87265550ee58fcc7dabb3550</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 18:02:26</sys_created_on>
+        <sys_id>47ebd90987be5910ee58fcc7dabb35a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184104f591e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-25 18:02:26</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>4febd90995be5910a21f644f63f8e49f</update_guid>
+        <update_guid_history>4febd90995be5910a21f644f63f8e49f:-127971844</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">1b3c158987be5910ee58fcc7dabb3520</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 18:03:49</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>000f151e32d048208403bfbc7734d100</sys_id>
+        <sys_metadata>43ebd90987be5910ee58fcc7dabb359f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_43ebd90987be5910ee58fcc7dabb359f</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_43ebd90987be5910ee58fcc7dabb359f">47ebd90987be5910ee58fcc7dabb35a0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-25 18:03:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

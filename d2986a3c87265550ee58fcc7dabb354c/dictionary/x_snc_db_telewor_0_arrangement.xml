@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bf4926bc87265550ee58fcc7dabb357c" label="Arrangement" max_length="40" name="x_snc_db_telewor_0_arrangement" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" display="true" label="Code" max_length="40" name="code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="193" name="description" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="Sals Example">150bf4c787e465107eabca25dabb35a7</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-26 20:36:25</sys_created_on>
+        <sys_id>590bf4c787e465107eabca25dabb35ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sals Example.SNC External</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_590bf4c787e465107eabca25dabb35ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-26 20:36:25</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>a8a0b22edbda91944d2bac44d49619ab</instance_id>
+        <instance_name>db6tokyodemo</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_590bf4c787e465107eabca25dabb35ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Sals Example">150bf4c787e465107eabca25dabb35a7</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-01-26 20:36:25</sys_created_on><sys_id>590bf4c787e465107eabca25dabb35ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Sals Example.SNC External</sys_name><sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package><sys_policy/><sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_590bf4c787e465107eabca25dabb35ac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-01-26 20:36:25</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>1443308223</payload_hash>
+        <record_name>Sals Example.SNC External</record_name>
+        <reverted_from/>
+        <source>d9357242872021107eabca25dabb35dc</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-01-24 02:56:20</sys_created_on>
+        <sys_id>191da4b187c921107eabca25dabb3591</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>185e1b47c200000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>d51da4b129c92110a795933ca04a1e91</update_guid>
+        <update_guid_history>d51da4b129c92110a795933ca04a1e91:1443308223</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Sals Example.SNC External">111da4b187c921107eabca25dabb3594</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-16 18:54:30</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>ce9d2dc48bfe42899681d1337769d111</sys_id>
+        <sys_metadata>590bf4c787e465107eabca25dabb35ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sals Example.SNC External</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_590bf4c787e465107eabca25dabb35ac</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_590bf4c787e465107eabca25dabb35ac">191da4b187c921107eabca25dabb3591</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-16 18:54:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

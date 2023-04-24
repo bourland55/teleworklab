@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>A default view for Telework Case 2023 generated</description>
+        <name>view</name>
+        <page display_value="Telework Case 2023">027ce18edc24a1d4bad19c13dc69c584</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-23 21:38:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>c67ce18e2a24a1d4a2830f003709d782</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_ux_page_property_c67ce18e2a24a1d4a2830f003709d782</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-23 21:38:44</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_snc_db_telewor_0.027ce18edc24a1d4bad19c13dc69c584.root.view</unique_name>
+        <value>Workspace-Telework-Case-2023-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=c67ce18e2a24a1d4a2830f003709d782"/>
+</record_update>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>something</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type>data_import</integration_type>
+        <internal_name/>
+        <name>DTRA</name>
+        <record_id>eaf37e75874b1190ee58fcc7dabb35bd</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 18:38:17</sys_created_on>
+        <sys_id>26f37e75874b1190ee58fcc7dabb35bc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>DTRA</sys_name>
+        <sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_26f37e75874b1190ee58fcc7dabb35bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 18:38:18</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>a8a0b22edbda91944d2bac44d49619ab</instance_id>
+        <instance_name>db6tokyodemo</instance_name>
+        <name>sn_ihub_integration_instance_26f37e75874b1190ee58fcc7dabb35bc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>something</description><integration_table>sys_data_source</integration_table><integration_type>data_import</integration_type><internal_name/><name>DTRA</name><record_id>eaf37e75874b1190ee58fcc7dabb35bd</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-09 18:38:17</sys_created_on><sys_id>26f37e75874b1190ee58fcc7dabb35bc</sys_id><sys_mod_count>1</sys_mod_count><sys_name>DTRA</sys_name><sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package><sys_policy/><sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope><sys_update_name>sn_ihub_integration_instance_26f37e75874b1190ee58fcc7dabb35bc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-09 18:38:18</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>-1575687138</payload_hash>
+        <record_name>DTRA</record_name>
+        <reverted_from/>
+        <source>d6986a3c87265550ee58fcc7dabb3550</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 18:38:18</sys_created_on>
+        <sys_id>66f37e75874b1190ee58fcc7dabb35e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1845daf91ff0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 18:38:18</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>6ef37e75b14b1190c57b9cb810f75be0</update_guid>
+        <update_guid_history>6ef37e75b14b1190c57b9cb810f75be0:-1575687138</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="DTRA">4e004ad587902954ee58fcc7dabb35ea</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-09 04:52:51</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>1cbb31ad1dfc4ce48a6495599be8dda4</sys_id>
+        <sys_metadata>26f37e75874b1190ee58fcc7dabb35bc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DTRA</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_26f37e75874b1190ee58fcc7dabb35bc</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_26f37e75874b1190ee58fcc7dabb35bc">66f37e75874b1190ee58fcc7dabb35e1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-09 04:52:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Top Priority Cases)">47ecb19d87512510ee58fcc7dabb3517</button>
+        <item_parameter display_value="Top Priority Cases company">87ecb19d87512510ee58fcc7dabb3515</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 21:42:03</sys_created_on>
+        <sys_id>07ecb19d87512510ee58fcc7dabb351d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>87ecb19d87512510ee58fcc7dabb3515</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_07ecb19d87512510ee58fcc7dabb351d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-27 21:42:03</sys_updated_on>
+        <ui_parameter display_value="Company">03ecb19d87512510ee58fcc7dabb351a</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

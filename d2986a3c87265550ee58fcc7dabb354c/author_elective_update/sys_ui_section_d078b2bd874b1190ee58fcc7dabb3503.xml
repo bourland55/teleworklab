@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="d078b2bd874b1190ee58fcc7dabb3503" sys_domain="global" table="x_snc_db_telewor_0_dd2875_aka_saar_n" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-09 18:57:48</sys_created_on>
+            <sys_id>94783231878b1190ee58fcc7dabb3570</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_dd2875_aka_saar_n" sys_domain="global" view="Default view">d078b2bd874b1190ee58fcc7dabb3503</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-09 18:57:48</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type_of_request</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-09 18:57:48</sys_created_on>
+            <sys_id>9c783231878b1190ee58fcc7dabb3570</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_dd2875_aka_saar_n" sys_domain="global" view="Default view">d078b2bd874b1190ee58fcc7dabb3503</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-09 18:57:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_yyyymmdd</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-09 18:57:48</sys_created_on>
+            <sys_id>90783231878b1190ee58fcc7dabb3571</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_dd2875_aka_saar_n" sys_domain="global" view="Default view">d078b2bd874b1190ee58fcc7dabb3503</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-09 18:57:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-09 18:57:48</sys_created_on>
+            <sys_id>94783231878b1190ee58fcc7dabb3571</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_dd2875_aka_saar_n" sys_domain="global" view="Default view">d078b2bd874b1190ee58fcc7dabb3503</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-09 18:57:48</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_1_name_last_first_middle_initial</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-09 18:57:48</sys_created_on>
+            <sys_id>98783231878b1190ee58fcc7dabb3571</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_dd2875_aka_saar_n" sys_domain="global" view="Default view">d078b2bd874b1190ee58fcc7dabb3503</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-09 18:57:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_8_citizenship</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-09 18:57:48</sys_created_on>
+            <sys_id>9c783231878b1190ee58fcc7dabb3571</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_dd2875_aka_saar_n" sys_domain="global" view="Default view">d078b2bd874b1190ee58fcc7dabb3503</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-09 18:57:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-09 18:57:48</sys_created_on>
+            <sys_id>90783231878b1190ee58fcc7dabb3572</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_dd2875_aka_saar_n" sys_domain="global" view="Default view">d078b2bd874b1190ee58fcc7dabb3503</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-09 18:57:48</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_db_telewor_0_dd2875_aka_saar_n</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-09 18:57:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d078b2bd874b1190ee58fcc7dabb3503</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_db_telewor_0_dd2875_aka_saar_n</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+            <sys_update_name>sys_ui_section_d078b2bd874b1190ee58fcc7dabb3503</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-09 18:57:48</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>a8a0b22edbda91944d2bac44d49619ab</instance_id>
+        <instance_name>db6tokyodemo</instance_name>
+        <name>sys_ui_section_d078b2bd874b1190ee58fcc7dabb3503</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="d078b2bd874b1190ee58fcc7dabb3503" sys_domain="global" table="x_snc_db_telewor_0_dd2875_aka_saar_n" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-09 18:57:48</sys_created_on><sys_id>94783231878b1190ee58fcc7dabb3570</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_dd2875_aka_saar_n" sys_domain="global" view="Default view">d078b2bd874b1190ee58fcc7dabb3503</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-09 18:57:48</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>type_of_request</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-09 18:57:48</sys_created_on><sys_id>9c783231878b1190ee58fcc7dabb3570</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_dd2875_aka_saar_n" sys_domain="global" view="Default view">d078b2bd874b1190ee58fcc7dabb3503</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-09 18:57:48</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>date_yyyymmdd</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-09 18:57:48</sys_created_on><sys_id>90783231878b1190ee58fcc7dabb3571</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_dd2875_aka_saar_n" sys_domain="global" view="Default view">d078b2bd874b1190ee58fcc7dabb3503</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-09 18:57:48</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-09 18:57:48</sys_created_on><sys_id>94783231878b1190ee58fcc7dabb3571</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_dd2875_aka_saar_n" sys_domain="global" view="Default view">d078b2bd874b1190ee58fcc7dabb3503</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-09 18:57:48</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_1_name_last_first_middle_initial</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-09 18:57:48</sys_created_on><sys_id>98783231878b1190ee58fcc7dabb3571</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_dd2875_aka_saar_n" sys_domain="global" view="Default view">d078b2bd874b1190ee58fcc7dabb3503</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-09 18:57:48</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_8_citizenship</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-09 18:57:48</sys_created_on><sys_id>9c783231878b1190ee58fcc7dabb3571</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_dd2875_aka_saar_n" sys_domain="global" view="Default view">d078b2bd874b1190ee58fcc7dabb3503</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-09 18:57:48</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-09 18:57:48</sys_created_on><sys_id>90783231878b1190ee58fcc7dabb3572</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_dd2875_aka_saar_n" sys_domain="global" view="Default view">d078b2bd874b1190ee58fcc7dabb3503</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-09 18:57:48</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_snc_db_telewor_0_dd2875_aka_saar_n</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-09 18:57:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d078b2bd874b1190ee58fcc7dabb3503</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_db_telewor_0_dd2875_aka_saar_n</sys_name><sys_overrides/><sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package><sys_policy/><sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope><sys_update_name>sys_ui_section_d078b2bd874b1190ee58fcc7dabb3503</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-09 18:57:48</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-141121026</payload_hash>
+        <record_name>DD2875 AKA SAAR-N</record_name>
+        <reverted_from/>
+        <source>d6986a3c87265550ee58fcc7dabb3550</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 18:57:48</sys_created_on>
+        <sys_id>90783231878b1190ee58fcc7dabb3574</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1845dc16d370000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 18:57:48</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>98783231948b1190720305a9b11ecb73</update_guid>
+        <update_guid_history>98783231948b1190720305a9b11ecb73:-141121026,dc7832317c8b1190251a1199bea3716f:-1709429328</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-24 02:49:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>7e4f27f2df634d21b727075a5a5109f1</sys_id>
+        <sys_metadata>d078b2bd874b1190ee58fcc7dabb3503</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_db_telewor_0_dd2875_aka_saar_n</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent display_value="">1a5cd40587839950ee58fcc7dabb3508</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_d078b2bd874b1190ee58fcc7dabb3503</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_d078b2bd874b1190ee58fcc7dabb3503">90783231878b1190ee58fcc7dabb3574</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-24 02:49:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

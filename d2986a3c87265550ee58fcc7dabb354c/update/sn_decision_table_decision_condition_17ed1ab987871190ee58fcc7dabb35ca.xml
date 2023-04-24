@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_decision_table_decision_condition">
+    <sn_decision_table_decision_condition action="INSERT_OR_UPDATE">
+        <decision_input display_value="Telework Request">36edda3987871190ee58fcc7dabb3598</decision_input>
+        <decision_table display_value="Telework approval matrix">490dde3987871190ee58fcc7dabb3508</decision_table>
+        <default_operator>=</default_operator>
+        <description/>
+        <field>u_telework_request.arrangement</field>
+        <field_label>Telework Case &gt; Arrangement</field_label>
+        <field_parent_table/>
+        <label>Arrangement</label>
+        <order>200</order>
+        <reference display_value="Arrangement" name="x_snc_db_telewor_0_arrangement">bf4926bc87265550ee58fcc7dabb357c</reference>
+        <sys_class_name>sn_decision_table_decision_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 17:01:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>17ed1ab987871190ee58fcc7dabb35ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sn_decision_table_decision_condition_17ed1ab987871190ee58fcc7dabb35ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 17:01:57</sys_updated_on>
+        <type display_value="Reference">52a227c1bf3320001875647fcf07396a</type>
+    </sn_decision_table_decision_condition>
+</record_update>

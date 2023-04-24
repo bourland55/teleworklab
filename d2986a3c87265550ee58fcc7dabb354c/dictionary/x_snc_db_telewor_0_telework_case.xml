@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="faa966fc87265550ee58fcc7dabb352f" extends="task" label="Telework Case" max_length="40" name="x_snc_db_telewor_0_telework_case" text_index="true" type="collection">
+        <element label="Arrangement" max_length="32" name="arrangement" reference="x_snc_db_telewor_0_arrangement" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Hardware Needed" max_length="40" name="hardware_needed" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Laptop" sequence="0" value="laptop"/>
+                <element inactive_on_update="false" label="Monitor" sequence="1" value="monitor"/>
+                <element inactive_on_update="false" label="Mouse" sequence="2" value="mouse"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Needs Attention" max_length="40" name="needs_attentio0" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Field April" max_length="40" name="new_field_april" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
+            </choice>
+        </element>
+        <element label="Number of Days" max_length="40" name="number_of_days" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Reason" max_length="40" name="reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Emergency" sequence="0" value="emergency"/>
+                <element inactive_on_update="false" label="Occasional" sequence="1" value="occasional"/>
+                <element inactive_on_update="false" label="Medical" sequence="2" value="medical"/>
+                <element inactive_on_update="false" label="Reasonable Accommodation" sequence="3" value="reasonable_accommodation"/>
+                <element inactive_on_update="false" label="COVID" sequence="4" value="covid"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Reason for Telework" max_length="40" name="reason_for_telework" type="string"/>
+        <element label="Request" max_length="32" name="request" reference="sc_request" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Testing Options Lookup" max_length="40" name="testing_options_lookup" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="One" sequence="0" value="one"/>
+                <element inactive_on_update="false" label="Two" sequence="1" value="two"/>
+                <element inactive_on_update="false" label="Three" sequence="2" value="three"/>
+                <element inactive_on_update="false" label="Four" sequence="3" value="four"/>
+            </choice>
+        </element>
+    </element>
+</database>

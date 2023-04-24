@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Telework Request">9dfff95087671950ee58fcc7dabb35b2</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 19:35:46</sys_created_on>
+        <sys_id>afe08ad087671950ee58fcc7dabb35a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Telework Request</sys_name>
+        <sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sc_cat_item_category_afe08ad087671950ee58fcc7dabb35a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-29 19:35:46</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>a8a0b22edbda91944d2bac44d49619ab</instance_id>
+        <instance_name>db6tokyodemo</instance_name>
+        <name>sc_cat_item_category_afe08ad087671950ee58fcc7dabb35a5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Telework Request">9dfff95087671950ee58fcc7dabb35b2</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-29 19:35:46</sys_created_on><sys_id>afe08ad087671950ee58fcc7dabb35a5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Telework Request</sys_name><sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package><sys_policy/><sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope><sys_update_name>sc_cat_item_category_afe08ad087671950ee58fcc7dabb35a5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-29 19:35:46</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1786080752</payload_hash>
+        <record_name>Can We Help You?.Telework Request</record_name>
+        <reverted_from/>
+        <source>d6986a3c87265550ee58fcc7dabb3550</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 19:35:46</sys_created_on>
+        <sys_id>2fe08ad087671950ee58fcc7dabb35a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184c4e35f400000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-29 19:35:46</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>63e08ad09267195015d411dabc0f62a9</update_guid>
+        <update_guid_history>63e08ad09267195015d411dabc0f62a9:1786080752</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Telework Request">0641861487671950ee58fcc7dabb352e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 19:37:18</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>008660f7f9eb4fae800ce0e7dcad6cc4</sys_id>
+        <sys_metadata>afe08ad087671950ee58fcc7dabb35a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Telework Request</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_afe08ad087671950ee58fcc7dabb35a5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_afe08ad087671950ee58fcc7dabb35a5">2fe08ad087671950ee58fcc7dabb35a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-29 19:37:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

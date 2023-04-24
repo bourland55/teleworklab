@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">90f336e6871211107eabca25dabb35c7</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-12 18:47:56</sys_created_on>
+        <sys_id>7aa966fc87265550ee58fcc7dabb3544</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-12 18:47:56</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

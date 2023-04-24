@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Apply for Telework">5a12fe3087e65550ee58fcc7dabb359b</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>steven.mccluskey@snc</sys_created_by>
+        <sys_created_on>2022-11-29 19:27:28</sys_created_on>
+        <sys_id>c20fb9dc87271950ee58fcc7dabb357a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Apply for Telework.All Users</sys_name>
+        <sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_c20fb9dc87271950ee58fcc7dabb357a</sys_update_name>
+        <sys_updated_by>steven.mccluskey@snc</sys_updated_by>
+        <sys_updated_on>2022-11-29 19:27:28</sys_updated_on>
+        <user_criteria display_value="All Users">aa60569553b30110e003ddeeff7b12f0</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>a8a0b22edbda91944d2bac44d49619ab</instance_id>
+        <instance_name>db6tokyodemo</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_c20fb9dc87271950ee58fcc7dabb357a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Apply for Telework">5a12fe3087e65550ee58fcc7dabb359b</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>steven.mccluskey@snc</sys_created_by><sys_created_on>2022-11-29 19:27:28</sys_created_on><sys_id>c20fb9dc87271950ee58fcc7dabb357a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Apply for Telework.All Users</sys_name><sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package><sys_policy/><sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_c20fb9dc87271950ee58fcc7dabb357a</sys_update_name><sys_updated_by>steven.mccluskey@snc</sys_updated_by><sys_updated_on>2022-11-29 19:27:28</sys_updated_on><user_criteria display_value="All Users">aa60569553b30110e003ddeeff7b12f0</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>591499427</payload_hash>
+        <record_name>Apply for Telework.All Users</record_name>
+        <reverted_from/>
+        <source>d6986a3c87265550ee58fcc7dabb3550</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>steven.mccluskey@snc</sys_created_by>
+        <sys_created_on>2022-11-29 19:27:29</sys_created_on>
+        <sys_id>8a0fb9dc87271950ee58fcc7dabb357e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184c4dbc8fb0000001</sys_recorded_at>
+        <sys_updated_by>steven.mccluskey@snc</sys_updated_by>
+        <sys_updated_on>2022-11-29 19:27:29</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>8e0fb9dc4c271950a0089a4bb67f017d</update_guid>
+        <update_guid_history>8e0fb9dc4c271950a0089a4bb67f017d:591499427</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Apply for Telework.All Users">6f0ff9dc87271950ee58fcc7dabb3531</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>steven.mccluskey@snc</sys_created_by>
+        <sys_created_on>2022-11-29 19:27:34</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>1cb68fb5910f4003a1330b5473c97279</sys_id>
+        <sys_metadata>c20fb9dc87271950ee58fcc7dabb357a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Apply for Telework.All Users</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_c20fb9dc87271950ee58fcc7dabb357a</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_c20fb9dc87271950ee58fcc7dabb357a">8a0fb9dc87271950ee58fcc7dabb357e</sys_update_version>
+        <sys_updated_by>steven.mccluskey@snc</sys_updated_by>
+        <sys_updated_on>2022-11-29 19:27:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

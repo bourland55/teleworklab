@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config_setting">
+    <sys_ux_ribbon_config_setting action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <configuration display_value="DB Telework Request TEST Ribbon Config">6920880c3acf91503ab39c9e291191ae</configuration>
+        <order>3000</order>
+        <ribbon display_value="Customer 360">29c1cd1c87835550ee58fcc7dabb358a</ribbon>
+        <specificity>20</specificity>
+        <sys_class_name>sys_ux_ribbon_config_setting</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 18:28:26</sys_created_on>
+        <sys_id>6dc1c55c87835550ee58fcc7dabb350f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_setting_6dc1c55c87835550ee58fcc7dabb350f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 18:28:26</sys_updated_on>
+        <table>x_snc_db_telewor_0_telework_case</table>
+        <width>2</width>
+    </sys_ux_ribbon_config_setting>
+</record_update>

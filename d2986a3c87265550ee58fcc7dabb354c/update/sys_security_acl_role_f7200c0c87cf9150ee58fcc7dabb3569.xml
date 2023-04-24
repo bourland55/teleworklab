@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 19:03:23</sys_created_on>
+        <sys_id>f7200c0c87cf9150ee58fcc7dabb3569</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now.db-telework-request-test.*.x_snc_db_telewor_0.user</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_security_acl display_value="now.db-telework-request-test.*">6120880c93cf915093fa1fd91d08aeb2</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f7200c0c87cf9150ee58fcc7dabb3569</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 19:03:23</sys_updated_on>
+        <sys_user_role display_value="x_snc_db_telewor_0.user" name="x_snc_db_telewor_0.user">e6986a3c87265550ee58fcc7dabb3589</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_item_variable_assignment">
+    <sc_item_variable_assignment action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <guide_variable display_value="What event do you want to sign up for?">0e103b4687cb9190ee58fcc7dabb35d0</guide_variable>
+        <item_variable display_value="What event are you signing up for?">821a4a6187c79d50ee58fcc7dabb3561</item_variable>
+        <rule display_value="Event Sign Up for Marketing Q4">116fa30687cb9190ee58fcc7dabb35a1</rule>
+        <sys_class_name>sc_item_variable_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-10 17:48:57</sys_created_on>
+        <sys_id>c522774a87cb9190ee58fcc7dabb35bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>821a4a6187c79d50ee58fcc7dabb3561</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sc_item_variable_assignment_c522774a87cb9190ee58fcc7dabb35bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-10 17:48:57</sys_updated_on>
+        <type>order_guide_variable</type>
+        <value/>
+    </sc_item_variable_assignment>
+</record_update>

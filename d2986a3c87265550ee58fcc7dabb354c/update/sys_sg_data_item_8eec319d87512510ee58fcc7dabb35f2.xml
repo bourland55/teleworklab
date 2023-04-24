@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Top Priority Cases Data Item</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="x_snc_db_telewor_0_telework_case">arrangementISNOTEMPTY^priorityIN1,2<item endquery="false" field="arrangement" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item display_value="1,2" endquery="false" field="priority" goto="false" newquery="false" operator="IN" or="false" value="1,2"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-27 21:41:58</sys_created_on>
+        <sys_id>8eec319d87512510ee58fcc7dabb35f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Top Priority Cases Data Item</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_sg_data_item_8eec319d87512510ee58fcc7dabb35f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-27 21:41:58</sys_updated_on>
+        <table>x_snc_db_telewor_0_telework_case</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=8eec319d87512510ee58fcc7dabb35f2"/>
+</record_update>

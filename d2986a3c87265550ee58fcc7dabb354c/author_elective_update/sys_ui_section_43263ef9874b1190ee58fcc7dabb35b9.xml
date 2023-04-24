@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New User" section_id="43263ef9874b1190ee58fcc7dabb35b9" sys_domain="global" table="x_snc_db_telewor_0_dtra" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-09 18:47:54</sys_created_on>
+            <sys_id>53263ef9874b1190ee58fcc7dabb35da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New User" display_value="New User" name="x_snc_db_telewor_0_dtra" sys_domain="global" view="Default view">43263ef9874b1190ee58fcc7dabb35b9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-09 18:47:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New User</caption>
+            <header>false</header>
+            <name>x_snc_db_telewor_0_dtra</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-09 18:47:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>43263ef9874b1190ee58fcc7dabb35b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_db_telewor_0_dtra</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+            <sys_update_name>sys_ui_section_43263ef9874b1190ee58fcc7dabb35b9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-09 18:47:53</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>a8a0b22edbda91944d2bac44d49619ab</instance_id>
+        <instance_name>db6tokyodemo</instance_name>
+        <name>sys_ui_section_43263ef9874b1190ee58fcc7dabb35b9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New User" section_id="43263ef9874b1190ee58fcc7dabb35b9" sys_domain="global" table="x_snc_db_telewor_0_dtra" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-09 18:47:54</sys_created_on><sys_id>53263ef9874b1190ee58fcc7dabb35da</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New User" display_value="New User" name="x_snc_db_telewor_0_dtra" sys_domain="global" view="Default view">43263ef9874b1190ee58fcc7dabb35b9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-09 18:47:54</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New User</caption><header>false</header><name>x_snc_db_telewor_0_dtra</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-09 18:47:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>43263ef9874b1190ee58fcc7dabb35b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_db_telewor_0_dtra</sys_name><sys_overrides/><sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package><sys_policy/><sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope><sys_update_name>sys_ui_section_43263ef9874b1190ee58fcc7dabb35b9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-09 18:47:53</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>915804537</payload_hash>
+        <record_name>DTRA</record_name>
+        <reverted_from/>
+        <source>d6986a3c87265550ee58fcc7dabb3550</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 18:47:54</sys_created_on>
+        <sys_id>d7267ef9874b1190ee58fcc7dabb350d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1845db85d3e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 18:47:54</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>53267ef9034b1190d80bf908dcca700d</update_guid>
+        <update_guid_history>53267ef9034b1190d80bf908dcca700d:915804537</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-09 04:52:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>670195c092664fc48a505dfbbd5114a9</sys_id>
+        <sys_metadata>43263ef9874b1190ee58fcc7dabb35b9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New User</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent display_value="">4f64b639874b1190ee58fcc7dabb35a6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_43263ef9874b1190ee58fcc7dabb35b9</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_43263ef9874b1190ee58fcc7dabb35b9">d7267ef9874b1190ee58fcc7dabb350d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-09 04:52:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

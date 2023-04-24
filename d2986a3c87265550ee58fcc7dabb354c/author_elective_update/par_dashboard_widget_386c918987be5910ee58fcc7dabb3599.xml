@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">c51da2b4de6655507dca14b70e7159df</canvas>
+        <component display_value="">b999eb8ac52f85df203e43cbf2352fde</component>
+        <component_props>{"filterId":"1gg8511hbtib02n4q8t8","filterName":"State","filterProperties":"{\"tablefields\":[{\"table\":{\"id\":\"x_snc_db_telewor_0_telework_case\",\"label\":\"Telework Case\",\"count\":6,\"hierarchy\":null},\"field\":{\"id\":\"state\",\"label\":\"State\",\"type\":\"choice\",\"reference\":null}}],\"defaults\":[],\"booleanLabels\":{},\"emptyOption\":null,\"maxElements\":500}","filterConfigurations":{}}</component_props>
+        <h>3</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 18:04:28</sys_created_on>
+        <sys_id>386c918987be5910ee58fcc7dabb3599</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>par_dashboard_widget_386c918987be5910ee58fcc7dabb3599</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-25 18:04:28</sys_updated_on>
+        <visualization/>
+        <w>1</w>
+        <x>2</x>
+        <y>0</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>a8a0b22edbda91944d2bac44d49619ab</instance_id>
+        <instance_name>db6tokyodemo</instance_name>
+        <name>par_dashboard_widget_386c918987be5910ee58fcc7dabb3599</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">c51da2b4de6655507dca14b70e7159df</canvas><component display_value="">b999eb8ac52f85df203e43cbf2352fde</component><component_props>{"filterId":"1gg8511hbtib02n4q8t8","filterName":"State","filterProperties":"{\"tablefields\":[{\"table\":{\"id\":\"x_snc_db_telewor_0_telework_case\",\"label\":\"Telework Case\",\"count\":6,\"hierarchy\":null},\"field\":{\"id\":\"state\",\"label\":\"State\",\"type\":\"choice\",\"reference\":null}}],\"defaults\":[],\"booleanLabels\":{},\"emptyOption\":null,\"maxElements\":500}","filterConfigurations":{}}</component_props><h>3</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-10-25 18:04:28</sys_created_on><sys_id>386c918987be5910ee58fcc7dabb3599</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package><sys_policy/><sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope><sys_update_name>par_dashboard_widget_386c918987be5910ee58fcc7dabb3599</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-10-25 18:04:28</sys_updated_on><visualization/><w>1</w><x>2</x><y>0</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>-1250070285</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>d6986a3c87265550ee58fcc7dabb3550</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-25 18:04:28</sys_created_on>
+        <sys_id>3c6c918987be5910ee58fcc7dabb359a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184105135aa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-25 18:04:28</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>346c9189d0be5910bdf5360f95c7219a</update_guid>
+        <update_guid_history>346c9189d0be5910bdf5360f95c7219a:-1250070285</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">4f84ae9d877e1110ee58fcc7dabb35df</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-26 17:58:13</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>43d98e48ce0c4b5a83c017db5ae514c4</sys_id>
+        <sys_metadata>386c918987be5910ee58fcc7dabb3599</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_386c918987be5910ee58fcc7dabb3599</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_386c918987be5910ee58fcc7dabb3599">3c6c918987be5910ee58fcc7dabb359a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-26 17:58:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

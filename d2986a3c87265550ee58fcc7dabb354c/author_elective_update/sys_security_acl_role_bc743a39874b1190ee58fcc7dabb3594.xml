@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 18:40:21</sys_created_on>
+        <sys_id>bc743a39874b1190ee58fcc7dabb3594</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_db_telewor_0_dtra.x_snc_db_telewor_0.admin</sys_name>
+        <sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_security_acl display_value="x_snc_db_telewor_0_dtra">a0743a39874b1190ee58fcc7dabb3585</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bc743a39874b1190ee58fcc7dabb3594</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 18:40:21</sys_updated_on>
+        <sys_user_role display_value="x_snc_db_telewor_0.admin" name="x_snc_db_telewor_0.admin">a6986a3c87265550ee58fcc7dabb3554</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>a8a0b22edbda91944d2bac44d49619ab</instance_id>
+        <instance_name>db6tokyodemo</instance_name>
+        <name>sys_security_acl_role_bc743a39874b1190ee58fcc7dabb3594</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-09 18:40:21</sys_created_on><sys_id>bc743a39874b1190ee58fcc7dabb3594</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_db_telewor_0_dtra.x_snc_db_telewor_0.admin</sys_name><sys_package display_value="DB Telework Request" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package><sys_policy/><sys_scope display_value="DB Telework Request">d2986a3c87265550ee58fcc7dabb354c</sys_scope><sys_security_acl display_value="x_snc_db_telewor_0_dtra">a0743a39874b1190ee58fcc7dabb3585</sys_security_acl><sys_update_name>sys_security_acl_role_bc743a39874b1190ee58fcc7dabb3594</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-09 18:40:21</sys_updated_on><sys_user_role display_value="x_snc_db_telewor_0.admin" name="x_snc_db_telewor_0.admin">a6986a3c87265550ee58fcc7dabb3554</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>579206202</payload_hash>
+        <record_name>x_snc_db_telewor_0_dtra.x_snc_db_telewor_0.admin</record_name>
+        <reverted_from/>
+        <source>d6986a3c87265550ee58fcc7dabb3550</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 18:40:21</sys_created_on>
+        <sys_id>34743a39874b1190ee58fcc7dabb3598</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1845db173170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 18:40:21</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>3c743a39584b11903639fc84c22a7b97</update_guid>
+        <update_guid_history>3c743a39584b11903639fc84c22a7b97:579206202</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_snc_db_telewor_0_dtra.x_snc_db_telewor_0.admin">5dffb5d587902954ee58fcc7dabb3514</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-09 04:52:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>42e29a157d3c49ddab6cbdb78a4e50d9</sys_id>
+        <sys_metadata>bc743a39874b1190ee58fcc7dabb3594</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_db_telewor_0_dtra.x_snc_db_telewor_0.admin</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent display_value="">a0743a39874b1190ee58fcc7dabb3585</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_bc743a39874b1190ee58fcc7dabb3594</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_bc743a39874b1190ee58fcc7dabb3594">34743a39874b1190ee58fcc7dabb3598</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-09 04:52:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

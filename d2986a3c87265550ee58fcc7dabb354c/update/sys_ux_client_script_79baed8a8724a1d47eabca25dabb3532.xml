@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Telework Case">a9baa98a8724a1d47eabca25dabb355c</macroponent>
+        <name>Update selected tab index</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({ api, event, helpers, imports }) {
+    const gFormData = api.data.gform.nowRecordFormBlob;
+    if (gFormData.isNewRecord)
+        return;
+
+    const { selectedTabIndex, isInitialPageLoad } = event.payload;
+
+    if (isInitialPageLoad === false) {  // Not emit CONTENT_UPDATED when isInitialPageLoad is undefined or true
+        api.emit('CONTENT_UPDATED', {
+            params: {
+                selectedTabIndex: selectedTabIndex,
+                query: api.context.props.query,
+                views: api.context.props.views,
+                extraParams: api.context.props.extraParams
+            }
+        });
+    }
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-23 21:30:53</sys_created_on>
+        <sys_id>79baed8a8724a1d47eabca25dabb3532</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update selected tab index</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_ux_client_script_79baed8a8724a1d47eabca25dabb3532</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-01-23 21:30:53</sys_updated_on>
+        <target>macroponent</target>
+        <type>default</type>
+    </sys_ux_client_script>
+</record_update>

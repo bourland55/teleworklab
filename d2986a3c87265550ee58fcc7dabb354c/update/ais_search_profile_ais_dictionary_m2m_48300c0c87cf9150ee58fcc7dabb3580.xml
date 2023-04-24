@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_snc_db_telewor_0_db_telework_request_test_search_profile_default_spell_check_dictionary">bf200c0c87cf9150ee58fcc7dabb357d</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="DB Telework Request TEST search profile">2120880ce3cf915046d1a8569abb4bae</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 19:03:24</sys_created_on>
+        <sys_id>48300c0c87cf9150ee58fcc7dabb3580</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_db_telewor_0_db_telework_request_test_search_profile_default_spell_check_dictionary.DB Telework Request TEST search profile</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_48300c0c87cf9150ee58fcc7dabb3580</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 19:03:24</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

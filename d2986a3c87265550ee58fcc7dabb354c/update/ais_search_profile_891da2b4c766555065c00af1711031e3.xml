@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for DB Telework Request</description>
+        <genius_result_assembly/>
+        <label>DB Telework Request Search Profile</label>
+        <name>x_snc_db_telewor_0_fmgzjupo_search_profile</name>
+        <publish_id>2449c534-4b9b-4e35-b53e-a68c1d07d4ba</publish_id>
+        <state>DRAFT</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-12 19:02:51</sys_created_on>
+        <sys_id>891da2b4c766555065c00af1711031e3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>DB Telework Request Search Profile</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>ais_search_profile_891da2b4c766555065c00af1711031e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-12 19:04:04</sys_updated_on>
+    </ais_search_profile>
+</record_update>
