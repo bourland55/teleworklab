@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_decision_table_decision_condition">
+    <sn_decision_table_decision_condition action="DELETE">
+        <decision_input display_value="Telework Request">36edda3987871190ee58fcc7dabb3598</decision_input>
+        <decision_table display_value="Telework approval matrix">490dde3987871190ee58fcc7dabb3508</decision_table>
+        <default_operator>=</default_operator>
+        <description>based off of priority and recommendation</description>
+        <field>u_telework_request.priority</field>
+        <field_label>Telework Case &gt; Priority</field_label>
+        <field_parent_table>x_snc_db_telewor_0_telework_case</field_parent_table>
+        <label>Telework Request</label>
+        <order>100</order>
+        <reference display_value="" name="NULL">747af2d81b943010a8b28730604bcbcb</reference>
+        <sys_class_name>sn_decision_table_decision_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 17:01:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>5bed527987871190ee58fcc7dabb351c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sn_decision_table_decision_condition_5bed527987871190ee58fcc7dabb351c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 17:01:57</sys_updated_on>
+        <type display_value="Choice">5217a7c1bf3320001875647fcf0739b7</type>
+    </sn_decision_table_decision_condition>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>5b1b945edbf1ed9442b321c4059619f5</instance_id>
+        <instance_name>db8utahdemo</instance_name>
+        <name>sn_decision_table_decision_condition_5bed527987871190ee58fcc7dabb351c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_decision_table_decision_condition">
+    <sn_decision_table_decision_condition action="INSERT_OR_UPDATE">
+        <decision_input display_value="Telework Request">36edda3987871190ee58fcc7dabb3598</decision_input>
+        <decision_table display_value="Telework approval matrix">490dde3987871190ee58fcc7dabb3508</decision_table>
+        <default_operator>=</default_operator>
+        <description>based off of priority and recommendation</description>
+        <field>u_telework_request.priority</field>
+        <field_label>Telework Case &gt; Priority</field_label>
+        <field_parent_table>x_snc_db_telewor_0_telework_case</field_parent_table>
+        <label>Telework Request</label>
+        <order>100</order>
+        <reference display_value="" name="NULL">747af2d81b943010a8b28730604bcbcb</reference>
+        <sys_class_name>sn_decision_table_decision_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 17:01:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>5bed527987871190ee58fcc7dabb351c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sn_decision_table_decision_condition_5bed527987871190ee58fcc7dabb351c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 17:01:57</sys_updated_on>
+        <type display_value="Choice">5217a7c1bf3320001875647fcf0739b7</type>
+    </sn_decision_table_decision_condition>
+</record_update>]]></payload>
+        <payload_hash>-1639500399</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>e5e31e0b471a2d90f61f4a05126d434a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-24 02:55:02</sys_created_on>
+        <sys_id>77f35a4b471a2d90f61f4a05126d4361</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187b12fa4720000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-24 02:55:02</sys_updated_on>
+        <type>Decision Condition</type>
+        <update_guid>37f35a4b371a2d90c06268a1ad5b7761</update_guid>
+        <update_guid_history>37f35a4b371a2d90c06268a1ad5b7761:-1639500399</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">15a610bd47ef6d50412ec035126d43ff</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:53:27</sys_created_on>
+        <sys_db_object display_value="" name="sn_decision_table_decision_condition">sn_decision_table_decision_condition</sys_db_object>
+        <sys_id>117809ed8c5841159688046d6a4b46d1</sys_id>
+        <sys_metadata>5bed527987871190ee58fcc7dabb351c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>sn_decision_table_decision_condition_5bed527987871190ee58fcc7dabb351c</sys_update_name>
+        <sys_update_version display_value="sn_decision_table_decision_condition_5bed527987871190ee58fcc7dabb351c">77f35a4b471a2d90f61f4a05126d4361</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:53:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

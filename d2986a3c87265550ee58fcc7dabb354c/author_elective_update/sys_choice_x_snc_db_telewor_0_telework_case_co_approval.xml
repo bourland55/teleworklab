@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="co_approval" table="x_snc_db_telewor_0_telework_case" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>co_approval</element>
+            <name>x_snc_db_telewor_0_telework_case</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-02 15:45:44</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>co_approval</sys_name>
+            <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+            <sys_update_name>sys_choice_x_snc_db_telewor_0_telework_case_co_approval</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-02 15:45:44</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>co_approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Yet Requested</label>
+            <language>en</language>
+            <name>x_snc_db_telewor_0_telework_case</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-02 15:45:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-02 16:25:48</sys_updated_on>
+            <value>not requested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>co_approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Requested</label>
+            <language>en</language>
+            <name>x_snc_db_telewor_0_telework_case</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-02 15:45:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-02 16:25:54</sys_updated_on>
+            <value>requested</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>co_approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Approved</label>
+            <language>en</language>
+            <name>x_snc_db_telewor_0_telework_case</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-02 15:45:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-02 16:26:00</sys_updated_on>
+            <value>approved</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>co_approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_snc_db_telewor_0_telework_case</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-02 15:45:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-02 16:26:06</sys_updated_on>
+            <value>rejected</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

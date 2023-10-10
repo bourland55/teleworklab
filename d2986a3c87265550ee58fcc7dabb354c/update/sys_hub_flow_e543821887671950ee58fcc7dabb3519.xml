@@ -10,7 +10,7 @@
         <copied_from_name>FlowTemplate_Empty</copied_from_name>
         <description/>
         <internal_name>telework_catalog_item</internal_name>
-        <label_cache>[{"name":"Service Catalog_1.request_item.request","label":"Trigger - Service Catalog➛Requested Item Record➛Request","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference","parent_table_name":"sc_req_item","column_name":"request"},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.__dont_treat_as_error__","label":"6 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.__action_status__","label":"6 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.table_name","label":"6 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.record","label":"6 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.record.number","label":"4 - Create Record➛Telework Case Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_db_telewor_0_telework_case","column_name":"number"},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.__dont_treat_as_error__","label":"5 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.__action_status__","label":"5 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.table_name","label":"5 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.record","label":"5 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.who_is_this_for","label":"3➛Telework Multi Row Questions➛Who is this for","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.how_many_days_VS","label":"3➛Telework Multi Row Questions➛How many days?","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.arrangement","label":"3➛Telework Multi Row Questions➛Arrangement","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.reason_VS","label":"3➛Telework Multi Row Questions➛Reason","reference":"","reference_display":"","type":"choice","base_type":"choice","column_name":"","choices":[{"label":"Emergency","value":"emergency","order":100.0},{"label":"Occasional","value":"occasional","order":100.0},{"label":"Medical","value":"medical","order":100.0},{"label":"Reasonable Accommodation","value":"reasonable_accommodation","order":100.0}],"attributes":{"catalogType":"3","catalogTypeLabel":"Multiple Choice"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.__dont_treat_as_error__","label":"4 - Create Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.__action_status__","label":"4 - Create Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.table_name","label":"4 - Create Record➛Telework Case Table","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.record","label":"4 - Create Record➛Telework Case Record","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item","label":"3 - For Each➛Telework Multi Row Questions","reference_display":"Telework Multi Row Questions","type":"object","base_type":"object","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.telework_multi_row_questions","label":"1 - Get Catalog Variables➛telework_multi_row_questions","reference":"","reference_display":"telework_multi_row_questions","type":"array.object","base_type":"array.object","attributes":{"child_label":"Telework Multi Row Questions","child_type_label":"Object","child_type":"object","child_name":"telework_multi_row_questions"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.who_are_you_submitting_for","label":"1 - Get Catalog Variables➛who_are_you_submitting_for","reference":"","reference_display":"who_are_you_submitting_for","type":"choice","base_type":"choice","choices":[{"label":"A Few People","value":"a_few_people","order":100.0},{"label":"Just One Person","value":"just_one_person","order":100.0}],"attributes":{"catalogType":"5","catalogTypeLabel":"Select Box"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.record.number","label":"8 - Create Record➛Telework Case Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_db_telewor_0_telework_case","column_name":"number"},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.__dont_treat_as_error__","label":"9 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.__action_status__","label":"9 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.table_name","label":"9 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.record","label":"9 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.__dont_treat_as_error__","label":"10 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.__action_status__","label":"10 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.table_name","label":"10 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.record","label":"10 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.__dont_treat_as_error__","label":"8 - Create Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.__action_status__","label":"8 - Create Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.table_name","label":"8 - Create Record➛Telework Case Table","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.record","label":"8 - Create Record➛Telework Case Record","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.reason","label":"1 - Get Catalog Variables➛reason","reference":"","reference_display":"reason","type":"choice","base_type":"choice","choices":[{"label":"-- None --","value":"","order":100.0},{"label":"Emergency","value":"emergency","order":100.0},{"label":"Occasional","value":"occasional","order":100.0},{"label":"Medical","value":"medical","order":100.0},{"label":"Reasonable Accommodation","value":"reasonable_accommodation","order":100.0},{"label":"COVID","value":"covid","order":100.0}],"attributes":{"catalogType":"3","catalogTypeLabel":"Multiple Choice"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.how_many_days","label":"1 - Get Catalog Variables➛how_many_days","reference":"","reference_display":"how_many_days","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.what_arrangement_do_you_have","label":"1 - Get Catalog Variables➛what_arrangement_do_you_have","reference":"x_snc_db_telewor_0_arrangement","reference_display":"Arrangement","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.needed_by","label":"1 - Get Catalog Variables➛needed_by","reference":"","reference_display":"needed_by","type":"choice","base_type":"choice","choices":[{"label":"Today","value":"today","order":100.0},{"label":"Tomorrow","value":"tomorrow","order":100.0},{"label":"This week","value":"current_week","order":100.0},{"label":"Next Week","value":"next_week","order":100.0}],"attributes":{"catalogType":"5","catalogTypeLabel":"Select Box"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.requested_for","label":"1 - Get Catalog Variables➛requested_for","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"Service Catalog_1.request_item","label":"Trigger - Service Catalog➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"default_search_field":"number"}},{"name":"ab8b7a79-892a-4e49-9e42-65572db71c09.email","label":"4 - Send SMS➛Email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"138380a7-e484-4080-b196-b42d33aa57b0"}},{"name":"ab8b7a79-892a-4e49-9e42-65572db71c09.__action_status__","label":"4 - Send SMS➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ab8b7a79-892a-4e49-9e42-65572db71c09.__dont_treat_as_error__","label":"4 - Send SMS➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Service Catalog_1.request_item.requested_for.mobile_phone","label":"Trigger - Service Catalog➛Requested Item Record➛Requested for➛Mobile phone","reference":"","reference_display":"Mobile phone","type":"ph_number","base_type":"ph_number","parent_table_name":"sys_user","column_name":"mobile_phone"}]</label_cache>
+        <label_cache>[{"name":"8e117f82-9aad-4f28-a148-718bdea5e767.portal_journal","label":"10 - Generate Table Record Link➛Portal Journal","reference_display":"Portal Journal","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"c1624190-e547-4024-80ec-bd14994074a1"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.record.sys_id","label":"9 - Create Record➛Telework Case Record➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"x_snc_db_telewor_0_telework_case","column_name":"sys_id"},{"name":"7f6128c7-5662-4ed8-9e94-24eb5f526e88.portal_journal","label":"5 - Generate Table Record Link➛Portal Journal","reference_display":"Portal Journal","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"c1624190-e547-4024-80ec-bd14994074a1"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.record.sys_id","label":"4 - Create Record➛Telework Case Record➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"x_snc_db_telewor_0_telework_case","column_name":"sys_id"},{"name":"Service Catalog_1.request_item.request","label":"Trigger - Service Catalog➛Requested Item Record➛Request","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference","parent_table_name":"sc_req_item","column_name":"request"},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.__dont_treat_as_error__","label":"7 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.__action_status__","label":"7 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.table_name","label":"7 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.record","label":"7 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.record.number","label":"4 - Create Record➛Telework Case Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_db_telewor_0_telework_case","column_name":"number"},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.__dont_treat_as_error__","label":"6 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.__action_status__","label":"6 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.table_name","label":"6 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.record","label":"6 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.who_is_this_for","label":"3➛Telework Multi Row Questions➛Who is this for","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.how_many_days_VS","label":"3➛Telework Multi Row Questions➛How many days?","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.arrangement","label":"3➛Telework Multi Row Questions➛Arrangement","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.reason_VS","label":"3➛Telework Multi Row Questions➛Reason","reference":"","reference_display":"","type":"choice","base_type":"choice","column_name":"","choices":[{"label":"Emergency","value":"emergency","order":100.0},{"label":"Occasional","value":"occasional","order":100.0},{"label":"Medical","value":"medical","order":100.0},{"label":"Reasonable Accommodation","value":"reasonable_accommodation","order":100.0}],"attributes":{"catalogType":"3","catalogTypeLabel":"Multiple Choice"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.__dont_treat_as_error__","label":"4 - Create Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.__action_status__","label":"4 - Create Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.table_name","label":"4 - Create Record➛Telework Case Table","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.record","label":"4 - Create Record➛Telework Case Record","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item","label":"3 - For Each➛Telework Multi Row Questions","reference_display":"Telework Multi Row Questions","type":"object","base_type":"object","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.telework_multi_row_questions","label":"1 - Get Catalog Variables➛telework_multi_row_questions","reference":"","reference_display":"telework_multi_row_questions","type":"array.object","base_type":"array.object","attributes":{"child_label":"Telework Multi Row Questions","child_type_label":"Object","child_type":"object","child_name":"telework_multi_row_questions"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.who_are_you_submitting_for","label":"1 - Get Catalog Variables➛who_are_you_submitting_for","reference":"","reference_display":"who_are_you_submitting_for","type":"choice","base_type":"choice","choices":[{"label":"A Few People","value":"a_few_people","order":100.0},{"label":"Just One Person","value":"just_one_person","order":100.0}],"attributes":{"catalogType":"5","catalogTypeLabel":"Select Box"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.record.number","label":"9 - Create Record➛Telework Case Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_db_telewor_0_telework_case","column_name":"number"},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.__dont_treat_as_error__","label":"11 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.__action_status__","label":"11 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.table_name","label":"11 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.record","label":"11 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.__dont_treat_as_error__","label":"12 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.__action_status__","label":"12 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.table_name","label":"12 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.record","label":"12 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.__dont_treat_as_error__","label":"9 - Create Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.__action_status__","label":"9 - Create Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.table_name","label":"9 - Create Record➛Telework Case Table","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.record","label":"9 - Create Record➛Telework Case Record","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.reason","label":"1 - Get Catalog Variables➛reason","reference":"","reference_display":"reason","type":"choice","base_type":"choice","choices":[{"label":"-- None --","value":"","order":100.0},{"label":"Emergency","value":"emergency","order":100.0},{"label":"Occasional","value":"occasional","order":100.0},{"label":"Medical","value":"medical","order":100.0},{"label":"Reasonable Accommodation","value":"reasonable_accommodation","order":100.0},{"label":"COVID","value":"covid","order":100.0}],"attributes":{"catalogType":"3","catalogTypeLabel":"Multiple Choice"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.how_many_days","label":"1 - Get Catalog Variables➛how_many_days","reference":"","reference_display":"how_many_days","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.what_arrangement_do_you_have","label":"1 - Get Catalog Variables➛what_arrangement_do_you_have","reference":"x_snc_db_telewor_0_arrangement","reference_display":"Arrangement","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.needed_by","label":"1 - Get Catalog Variables➛needed_by","reference":"","reference_display":"needed_by","type":"choice","base_type":"choice","choices":[{"label":"Today","value":"today","order":100.0},{"label":"Tomorrow","value":"tomorrow","order":100.0},{"label":"This week","value":"current_week","order":100.0},{"label":"Next Week","value":"next_week","order":100.0}],"attributes":{"catalogType":"5","catalogTypeLabel":"Select Box"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.requested_for","label":"1 - Get Catalog Variables➛requested_for","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"Service Catalog_1.request_item","label":"Trigger - Service Catalog➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"default_search_field":"number"}},{"name":"ab8b7a79-892a-4e49-9e42-65572db71c09.email","label":"4 - Send SMS➛Email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"138380a7-e484-4080-b196-b42d33aa57b0"}},{"name":"ab8b7a79-892a-4e49-9e42-65572db71c09.__action_status__","label":"4 - Send SMS➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ab8b7a79-892a-4e49-9e42-65572db71c09.__dont_treat_as_error__","label":"4 - Send SMS➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Service Catalog_1.request_item.requested_for.mobile_phone","label":"Trigger - Service Catalog➛Requested Item Record➛Requested for➛Mobile phone","reference":"","reference_display":"Mobile phone","type":"ph_number","base_type":"ph_number","parent_table_name":"sys_user","column_name":"mobile_phone"}]</label_cache>
         <master_snapshot>7329c61487a71950ee58fcc7dabb3553</master_snapshot>
         <name>Telework Catalog Item</name>
         <natlang/>
@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e543821887671950ee58fcc7dabb3519</sys_id>
-        <sys_mod_count>33</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Telework Catalog Item</sys_name>
         <sys_overrides/>
         <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
@@ -37,7 +37,7 @@
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_update_name>sys_hub_flow_e543821887671950ee58fcc7dabb3519</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:30</sys_updated_on>
+        <sys_updated_on>2023-07-05 21:42:01</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=e543821887671950ee58fcc7dabb3519"/>
@@ -70,10 +70,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:03:02</sys_created_on>
         <sys_id>3627cedc87671950ee58fcc7dabb3585</sys_id>
-        <sys_mod_count>32</sys_mod_count>
+        <sys_mod_count>35</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:29</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:31</sys_updated_on>
         <trigger_definition display_value="Service Catalog">c43a1011c36813002841b63b12d3ae15</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -202,7 +202,7 @@
         <ancestor_component_id/>
         <ancestor_stage_id/>
         <ancestral_if_else_logic/>
-        <component_indexes>2,7</component_indexes>
+        <component_indexes>2,8</component_indexes>
         <duration>1970-01-02 00:00:00</duration>
         <flow display_value="Telework Catalog Item">e543821887671950ee58fcc7dabb3519</flow>
         <label>Received</label>
@@ -212,10 +212,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:03:02</sys_created_on>
         <sys_id>4b27cedc87671950ee58fcc7dabb35c6</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-12-07 22:19:30</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:10</sys_updated_on>
         <type>standard</type>
         <value>received</value>
     </sys_hub_flow_stage>
@@ -365,14 +365,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:03:01</sys_created_on>
         <sys_id>ba27cedc87671950ee58fcc7dabb355e</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_mod_count>17</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:29</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:31</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -448,14 +448,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:03:01</sys_created_on>
         <sys_id>f627cedc87671950ee58fcc7dabb3563</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>22</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:29</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:31</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -470,7 +470,207 @@
     </sys_hub_flow_input>
     <sys_hub_flow_output action="delete_multiple" query="model=e543821887671950ee58fcc7dabb3519"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=e543821887671950ee58fcc7dabb3519"/>
-    <sys_hub_action_instance action="delete_multiple" query="flow=e543821887671950ee58fcc7dabb3519^sys_idNOT IN4b27cedc87671950ee58fcc7dabb35c2,8727cedc87671950ee58fcc7dabb35b0,b627cedc87671950ee58fcc7dabb358a,cb27cedc87671950ee58fcc7dabb35aa,e3b82ffe87abdd10ee58fcc7dabb354f,f3b82ffe87abdd10ee58fcc7dabb3555,f3b82ffe87abdd10ee58fcc7dabb355b"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=e543821887671950ee58fcc7dabb3519^sys_idNOT IN2111103547ef6d50412ec035126d4302,2111103547ef6d50412ec035126d4316,4b27cedc87671950ee58fcc7dabb35c2,8727cedc87671950ee58fcc7dabb35b0,b627cedc87671950ee58fcc7dabb358a,cb27cedc87671950ee58fcc7dabb35aa,e3b82ffe87abdd10ee58fcc7dabb354f,f3b82ffe87abdd10ee58fcc7dabb3555,f3b82ffe87abdd10ee58fcc7dabb355b"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Generate Table Record Link">1ed732212f0ad0901c43bed72799b695</action_type>
+        <action_type_parent/>
+        <comment/>
+        <display_text/>
+        <flow display_value="Telework Catalog Item">e543821887671950ee58fcc7dabb3519</flow>
+        <order>5</order>
+        <parent_ui_id>d5919252-f1f8-4409-867c-909d85e161eb</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:09</sys_created_on>
+        <sys_id>2111103547ef6d50412ec035126d4302</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-08 21:37:53</sys_updated_on>
+        <ui_id>7f6128c7-5662-4ed8-9e94-24eb5f526e88</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=2111103547ef6d50412ec035126d4302"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>2111103547ef6d50412ec035126d4302</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:09</sys_created_on>
+        <sys_id>6d11103547ef6d50412ec035126d4304</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:09</sys_updated_on>
+        <value>Telework Case</value>
+        <variable display_value="Link Display Name">dad732212f0ad0901c43bed72799b6b1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>2111103547ef6d50412ec035126d4302</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:09</sys_created_on>
+        <sys_id>a511103547ef6d50412ec035126d4305</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:09</sys_updated_on>
+        <value>ecdemo</value>
+        <variable display_value="Portal URL Suffix">1ad732212f0ad0901c43bed72799b6b8</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=2111103547ef6d50412ec035126d4302"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>link_display_name</field>
+        <id>2111103547ef6d50412ec035126d4302</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:09</sys_created_on>
+        <sys_id>ad11103547ef6d50412ec035126d4303</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:09</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>portal_url_suffix</field>
+        <id>2111103547ef6d50412ec035126d4302</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:09</sys_created_on>
+        <sys_id>6511103547ef6d50412ec035126d4304</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:09</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record_sysid</field>
+        <id>2111103547ef6d50412ec035126d4302</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:09</sys_created_on>
+        <sys_id>2911103547ef6d50412ec035126d4304</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:09</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value>{{3169ec5f-ea5f-4892-9ac1-75fa956fd140.record.sys_id}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>2111103547ef6d50412ec035126d4302</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:09</sys_created_on>
+        <sys_id>e911103547ef6d50412ec035126d4304</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:09</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value>{{3169ec5f-ea5f-4892-9ac1-75fa956fd140.table_name}}</value>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=2111103547ef6d50412ec035126d4302"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=2111103547ef6d50412ec035126d4302"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Generate Table Record Link">1ed732212f0ad0901c43bed72799b695</action_type>
+        <action_type_parent/>
+        <comment/>
+        <display_text/>
+        <flow display_value="Telework Catalog Item">e543821887671950ee58fcc7dabb3519</flow>
+        <order>10</order>
+        <parent_ui_id>188e73f4-222b-400e-849c-0a6f435e0910</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:10</sys_created_on>
+        <sys_id>2111103547ef6d50412ec035126d4316</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-08 21:37:53</sys_updated_on>
+        <ui_id>8e117f82-9aad-4f28-a148-718bdea5e767</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=2111103547ef6d50412ec035126d4316"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>2111103547ef6d50412ec035126d4316</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:10</sys_created_on>
+        <sys_id>6111103547ef6d50412ec035126d4318</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:10</sys_updated_on>
+        <value>ecdemo</value>
+        <variable display_value="Portal URL Suffix">1ad732212f0ad0901c43bed72799b6b8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>2111103547ef6d50412ec035126d4316</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:10</sys_created_on>
+        <sys_id>ad11103547ef6d50412ec035126d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:10</sys_updated_on>
+        <value>Telework Case</value>
+        <variable display_value="Link Display Name">dad732212f0ad0901c43bed72799b6b1</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=2111103547ef6d50412ec035126d4316"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>link_display_name</field>
+        <id>2111103547ef6d50412ec035126d4316</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:10</sys_created_on>
+        <sys_id>e111103547ef6d50412ec035126d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:10</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>portal_url_suffix</field>
+        <id>2111103547ef6d50412ec035126d4316</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:10</sys_created_on>
+        <sys_id>a511103547ef6d50412ec035126d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:10</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record_sysid</field>
+        <id>2111103547ef6d50412ec035126d4316</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:10</sys_created_on>
+        <sys_id>6911103547ef6d50412ec035126d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:10</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value>{{fb01208e-ac22-4c62-a321-ab4b967f23d8.record.sys_id}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>2111103547ef6d50412ec035126d4316</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:10</sys_created_on>
+        <sys_id>2d11103547ef6d50412ec035126d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:10</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value>{{fb01208e-ac22-4c62-a321-ab4b967f23d8.table_name}}</value>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=2111103547ef6d50412ec035126d4316"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=2111103547ef6d50412ec035126d4316"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -479,16 +679,16 @@
         <comment>close request</comment>
         <display_text/>
         <flow display_value="Telework Catalog Item">e543821887671950ee58fcc7dabb3519</flow>
-        <order>10</order>
+        <order>12</order>
         <parent_ui_id>188e73f4-222b-400e-849c-0a6f435e0910</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:03:02</sys_created_on>
         <sys_id>4b27cedc87671950ee58fcc7dabb35c2</sys_id>
-        <sys_mod_count>80</sys_mod_count>
+        <sys_mod_count>92</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-11 22:03:15</sys_updated_on>
+        <sys_updated_on>2023-08-08 21:37:53</sys_updated_on>
         <ui_id>8ae82793-1fec-4fbe-90c3-403d09c05713</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=4b27cedc87671950ee58fcc7dabb35c2"/>
@@ -567,16 +767,16 @@
         <comment>comment request with telework number</comment>
         <display_text/>
         <flow display_value="Telework Catalog Item">e543821887671950ee58fcc7dabb3519</flow>
-        <order>9</order>
+        <order>11</order>
         <parent_ui_id>188e73f4-222b-400e-849c-0a6f435e0910</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:03:02</sys_created_on>
         <sys_id>8727cedc87671950ee58fcc7dabb35b0</sys_id>
-        <sys_mod_count>80</sys_mod_count>
+        <sys_mod_count>92</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-11 22:03:15</sys_updated_on>
+        <sys_updated_on>2023-08-08 21:37:53</sys_updated_on>
         <ui_id>0c5196f3-ef88-4a8b-8269-6a7117d521d6</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=8727cedc87671950ee58fcc7dabb35b0"/>
@@ -625,11 +825,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:03:02</sys_created_on>
         <sys_id>cf27cedc87671950ee58fcc7dabb35b1</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-12-07 21:51:36</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:10</sys_updated_on>
         <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value>comments=Telework request created: ﻿{{fb01208e-ac22-4c62-a321-ab4b967f23d8.record.number}}.  Please navigate here and follow for more updates: https://db6tokyodemo.service-now.com/ecdemo?id=my_requests﻿</value>
+        <value>comments=Telework request created: {{fb01208e-ac22-4c62-a321-ab4b967f23d8.record.number}}.  Please navigate here and follow for more updates: {{8e117f82-9aad-4f28-a148-718bdea5e767.portal_journal}}</value>
     </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=8727cedc87671950ee58fcc7dabb35b0"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=8727cedc87671950ee58fcc7dabb35b0"/>
@@ -647,10 +847,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:03:02</sys_created_on>
         <sys_id>b627cedc87671950ee58fcc7dabb358a</sys_id>
-        <sys_mod_count>80</sys_mod_count>
+        <sys_mod_count>92</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-11 22:03:14</sys_updated_on>
+        <sys_updated_on>2023-08-08 21:37:53</sys_updated_on>
         <ui_id>ebd582b0-ad42-4e93-b519-606a48221051</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b627cedc87671950ee58fcc7dabb358a"/>
@@ -729,16 +929,16 @@
         <comment/>
         <display_text/>
         <flow display_value="Telework Catalog Item">e543821887671950ee58fcc7dabb3519</flow>
-        <order>8</order>
+        <order>9</order>
         <parent_ui_id>188e73f4-222b-400e-849c-0a6f435e0910</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:03:02</sys_created_on>
         <sys_id>cb27cedc87671950ee58fcc7dabb35aa</sys_id>
-        <sys_mod_count>80</sys_mod_count>
+        <sys_mod_count>92</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-11 22:03:14</sys_updated_on>
+        <sys_updated_on>2023-08-08 21:37:53</sys_updated_on>
         <ui_id>fb01208e-ac22-4c62-a321-ab4b967f23d8</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=cb27cedc87671950ee58fcc7dabb35aa"/>
@@ -797,10 +997,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-07 21:34:09</sys_created_on>
         <sys_id>e3b82ffe87abdd10ee58fcc7dabb354f</sys_id>
-        <sys_mod_count>42</sys_mod_count>
+        <sys_mod_count>54</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-11 22:03:14</sys_updated_on>
+        <sys_updated_on>2023-08-08 21:37:53</sys_updated_on>
         <ui_id>3169ec5f-ea5f-4892-9ac1-75fa956fd140</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=e3b82ffe87abdd10ee58fcc7dabb354f"/>
@@ -853,16 +1053,16 @@
         <comment>comment request with telework number</comment>
         <display_text/>
         <flow display_value="Telework Catalog Item">e543821887671950ee58fcc7dabb3519</flow>
-        <order>5</order>
+        <order>6</order>
         <parent_ui_id>d5919252-f1f8-4409-867c-909d85e161eb</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-07 21:34:09</sys_created_on>
         <sys_id>f3b82ffe87abdd10ee58fcc7dabb3555</sys_id>
-        <sys_mod_count>42</sys_mod_count>
+        <sys_mod_count>54</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-11 22:03:14</sys_updated_on>
+        <sys_updated_on>2023-08-08 21:37:53</sys_updated_on>
         <ui_id>a84dd2e2-0980-45ee-bba4-8507085f877b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f3b82ffe87abdd10ee58fcc7dabb3555"/>
@@ -911,11 +1111,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-07 21:34:09</sys_created_on>
         <sys_id>33b82ffe87abdd10ee58fcc7dabb3557</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-12-07 21:51:36</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:09</sys_updated_on>
         <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value>comments=Telework request created:{{3169ec5f-ea5f-4892-9ac1-75fa956fd140.record.number}}.  Please navigate here and follow for more updates: https://db6tokyodemo.service-now.com/ecdemo?id=my_requests</value>
+        <value>comments=Telework request created:{{3169ec5f-ea5f-4892-9ac1-75fa956fd140.record.number}}.  Please navigate here and follow for more updates: {{7f6128c7-5662-4ed8-9e94-24eb5f526e88.portal_journal}}</value>
     </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=f3b82ffe87abdd10ee58fcc7dabb3555"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=f3b82ffe87abdd10ee58fcc7dabb3555"/>
@@ -927,16 +1127,16 @@
         <comment>close request</comment>
         <display_text/>
         <flow display_value="Telework Catalog Item">e543821887671950ee58fcc7dabb3519</flow>
-        <order>6</order>
+        <order>7</order>
         <parent_ui_id>d5919252-f1f8-4409-867c-909d85e161eb</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-07 21:34:09</sys_created_on>
         <sys_id>f3b82ffe87abdd10ee58fcc7dabb355b</sys_id>
-        <sys_mod_count>42</sys_mod_count>
+        <sys_mod_count>54</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-04-11 22:03:14</sys_updated_on>
+        <sys_updated_on>2023-08-08 21:37:53</sys_updated_on>
         <ui_id>72acafdf-d63d-464b-8ed1-5df9a0dbd113</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=f3b82ffe87abdd10ee58fcc7dabb355b"/>
@@ -1010,7 +1210,7 @@
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=e543821887671950ee58fcc7dabb3519"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=e543821887671950ee58fcc7dabb3519^sys_idNOT IN2fb82ffe87abdd10ee58fcc7dabb3542,61037ff2872fdd10ee58fcc7dabb35ed,6bb82ffe87abdd10ee58fcc7dabb3548"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">efb82ffe87abdd10ee58fcc7dabb3541</block>
+        <block display_value="">e911dcf147ef6d50412ec035126d43e3</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -1031,10 +1231,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-07 21:34:08</sys_created_on>
         <sys_id>2fb82ffe87abdd10ee58fcc7dabb3542</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:29</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:31</sys_updated_on>
         <ui_id>01390e54-6e29-446b-b1bb-ef8d10221aed</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1082,7 +1282,7 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=2fb82ffe87abdd10ee58fcc7dabb3542"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=2fb82ffe87abdd10ee58fcc7dabb3542"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">a5037ff2872fdd10ee58fcc7dabb35ec</block>
+        <block display_value="">a111103547ef6d50412ec035126d430b</block>
         <comment>If only for one person</comment>
         <connected_to>01390e54-6e29-446b-b1bb-ef8d10221aed</connected_to>
         <decision_table/>
@@ -1094,7 +1294,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
-        <order>7</order>
+        <order>8</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id/>
@@ -1102,10 +1302,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-07 22:19:03</sys_created_on>
         <sys_id>61037ff2872fdd10ee58fcc7dabb35ed</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>11</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:30</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:31</sys_updated_on>
         <ui_id>188e73f4-222b-400e-849c-0a6f435e0910</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1114,7 +1314,7 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=61037ff2872fdd10ee58fcc7dabb35ed"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=61037ff2872fdd10ee58fcc7dabb35ed"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">e3b82ffe87abdd10ee58fcc7dabb3548</block>
+        <block display_value="">e511dcf147ef6d50412ec035126d43ea</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -1135,10 +1335,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-07 21:34:08</sys_created_on>
         <sys_id>6bb82ffe87abdd10ee58fcc7dabb3548</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:29</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:31</sys_updated_on>
         <ui_id>d5919252-f1f8-4409-867c-909d85e161eb</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1211,25 +1411,6 @@
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_e543821887671950ee58fcc7dabb3519"/>
     <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_e543821887671950ee58fcc7dabb3519"/>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_e543821887671950ee58fcc7dabb3519"/>
-    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=e543821887671950ee58fcc7dabb3519^sys_idNOT IN1039c61487a71950ee58fcc7dabb35f6"/>
-    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
-        <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
-        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"1039c61487a71950ee58fcc7dabb35f6","name":"plan","plan_signature":null}}</plan>
-        <plan_id>e543821887671950ee58fcc7dabb3519</plan_id>
-        <snapshot>142ed74f874221907eabca25dabb3507</snapshot>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-11-29 20:11:52</sys_created_on>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
-        <sys_id>1039c61487a71950ee58fcc7dabb35f6</sys_id>
-        <sys_mod_count>6</sys_mod_count>
-        <sys_overrides/>
-        <sys_scope/>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:29</sys_updated_on>
-        <trigger display_value="">1839c61487a71950ee58fcc7dabb35f5</trigger>
-    </sys_flow_trigger_plan>
-    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=e543821887671950ee58fcc7dabb3519"/>
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
         <acls/>
@@ -1241,7 +1422,7 @@
         <copied_from_name/>
         <description/>
         <internal_name>telework_catalog_item</internal_name>
-        <label_cache>[{"name":"Service Catalog_1.request_item.request","label":"Trigger - Service Catalog➛Requested Item Record➛Request","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference","parent_table_name":"sc_req_item","column_name":"request"},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.__dont_treat_as_error__","label":"6 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.__action_status__","label":"6 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.table_name","label":"6 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.record","label":"6 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.record.number","label":"4 - Create Record➛Telework Case Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_db_telewor_0_telework_case","column_name":"number"},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.__dont_treat_as_error__","label":"5 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.__action_status__","label":"5 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.table_name","label":"5 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.record","label":"5 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.who_is_this_for","label":"3➛Telework Multi Row Questions➛Who is this for","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.how_many_days_VS","label":"3➛Telework Multi Row Questions➛How many days?","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.arrangement","label":"3➛Telework Multi Row Questions➛Arrangement","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.reason_VS","label":"3➛Telework Multi Row Questions➛Reason","reference":"","reference_display":"","type":"choice","base_type":"choice","column_name":"","choices":[{"label":"Emergency","value":"emergency","order":100.0},{"label":"Occasional","value":"occasional","order":100.0},{"label":"Medical","value":"medical","order":100.0},{"label":"Reasonable Accommodation","value":"reasonable_accommodation","order":100.0}],"attributes":{"catalogType":"3","catalogTypeLabel":"Multiple Choice"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.__dont_treat_as_error__","label":"4 - Create Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.__action_status__","label":"4 - Create Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.table_name","label":"4 - Create Record➛Telework Case Table","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.record","label":"4 - Create Record➛Telework Case Record","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item","label":"3 - For Each➛Telework Multi Row Questions","reference_display":"Telework Multi Row Questions","type":"object","base_type":"object","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.telework_multi_row_questions","label":"1 - Get Catalog Variables➛telework_multi_row_questions","reference":"","reference_display":"telework_multi_row_questions","type":"array.object","base_type":"array.object","attributes":{"child_label":"Telework Multi Row Questions","child_type_label":"Object","child_type":"object","child_name":"telework_multi_row_questions"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.who_are_you_submitting_for","label":"1 - Get Catalog Variables➛who_are_you_submitting_for","reference":"","reference_display":"who_are_you_submitting_for","type":"choice","base_type":"choice","choices":[{"label":"A Few People","value":"a_few_people","order":100.0},{"label":"Just One Person","value":"just_one_person","order":100.0}],"attributes":{"catalogType":"5","catalogTypeLabel":"Select Box"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.record.number","label":"8 - Create Record➛Telework Case Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_db_telewor_0_telework_case","column_name":"number"},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.__dont_treat_as_error__","label":"9 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.__action_status__","label":"9 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.table_name","label":"9 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.record","label":"9 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.__dont_treat_as_error__","label":"10 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.__action_status__","label":"10 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.table_name","label":"10 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.record","label":"10 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.__dont_treat_as_error__","label":"8 - Create Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.__action_status__","label":"8 - Create Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.table_name","label":"8 - Create Record➛Telework Case Table","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.record","label":"8 - Create Record➛Telework Case Record","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.reason","label":"1 - Get Catalog Variables➛reason","reference":"","reference_display":"reason","type":"choice","base_type":"choice","choices":[{"label":"-- None --","value":"","order":100.0},{"label":"Emergency","value":"emergency","order":100.0},{"label":"Occasional","value":"occasional","order":100.0},{"label":"Medical","value":"medical","order":100.0},{"label":"Reasonable Accommodation","value":"reasonable_accommodation","order":100.0},{"label":"COVID","value":"covid","order":100.0}],"attributes":{"catalogType":"3","catalogTypeLabel":"Multiple Choice"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.how_many_days","label":"1 - Get Catalog Variables➛how_many_days","reference":"","reference_display":"how_many_days","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.what_arrangement_do_you_have","label":"1 - Get Catalog Variables➛what_arrangement_do_you_have","reference":"x_snc_db_telewor_0_arrangement","reference_display":"Arrangement","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.needed_by","label":"1 - Get Catalog Variables➛needed_by","reference":"","reference_display":"needed_by","type":"choice","base_type":"choice","choices":[{"label":"Today","value":"today","order":100.0},{"label":"Tomorrow","value":"tomorrow","order":100.0},{"label":"This week","value":"current_week","order":100.0},{"label":"Next Week","value":"next_week","order":100.0}],"attributes":{"catalogType":"5","catalogTypeLabel":"Select Box"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.requested_for","label":"1 - Get Catalog Variables➛requested_for","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"Service Catalog_1.request_item","label":"Trigger - Service Catalog➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"default_search_field":"number"}},{"name":"ab8b7a79-892a-4e49-9e42-65572db71c09.email","label":"4 - Send SMS➛Email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"138380a7-e484-4080-b196-b42d33aa57b0"}},{"name":"ab8b7a79-892a-4e49-9e42-65572db71c09.__action_status__","label":"4 - Send SMS➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ab8b7a79-892a-4e49-9e42-65572db71c09.__dont_treat_as_error__","label":"4 - Send SMS➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Service Catalog_1.request_item.requested_for.mobile_phone","label":"Trigger - Service Catalog➛Requested Item Record➛Requested for➛Mobile phone","reference":"","reference_display":"Mobile phone","type":"ph_number","base_type":"ph_number","parent_table_name":"sys_user","column_name":"mobile_phone"}]</label_cache>
+        <label_cache>[{"name":"8e117f82-9aad-4f28-a148-718bdea5e767.portal_journal","label":"10 - Generate Table Record Link➛Portal Journal","reference_display":"Portal Journal","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"c1624190-e547-4024-80ec-bd14994074a1"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.record.sys_id","label":"9 - Create Record➛Telework Case Record➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"x_snc_db_telewor_0_telework_case","column_name":"sys_id"},{"name":"7f6128c7-5662-4ed8-9e94-24eb5f526e88.portal_journal","label":"5 - Generate Table Record Link➛Portal Journal","reference_display":"Portal Journal","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"c1624190-e547-4024-80ec-bd14994074a1"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.record.sys_id","label":"4 - Create Record➛Telework Case Record➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"x_snc_db_telewor_0_telework_case","column_name":"sys_id"},{"name":"Service Catalog_1.request_item.request","label":"Trigger - Service Catalog➛Requested Item Record➛Request","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference","parent_table_name":"sc_req_item","column_name":"request"},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.__dont_treat_as_error__","label":"7 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.__action_status__","label":"7 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.table_name","label":"7 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"72acafdf-d63d-464b-8ed1-5df9a0dbd113.record","label":"7 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.record.number","label":"4 - Create Record➛Telework Case Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_db_telewor_0_telework_case","column_name":"number"},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.__dont_treat_as_error__","label":"6 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.__action_status__","label":"6 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.table_name","label":"6 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"a84dd2e2-0980-45ee-bba4-8507085f877b.record","label":"6 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.who_is_this_for","label":"3➛Telework Multi Row Questions➛Who is this for","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.how_many_days_VS","label":"3➛Telework Multi Row Questions➛How many days?","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.arrangement","label":"3➛Telework Multi Row Questions➛Arrangement","reference":"","reference_display":"","type":"string","base_type":"string","column_name":"","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item.reason_VS","label":"3➛Telework Multi Row Questions➛Reason","reference":"","reference_display":"","type":"choice","base_type":"choice","column_name":"","choices":[{"label":"Emergency","value":"emergency","order":100.0},{"label":"Occasional","value":"occasional","order":100.0},{"label":"Medical","value":"medical","order":100.0},{"label":"Reasonable Accommodation","value":"reasonable_accommodation","order":100.0}],"attributes":{"catalogType":"3","catalogTypeLabel":"Multiple Choice"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.__dont_treat_as_error__","label":"4 - Create Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.__action_status__","label":"4 - Create Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.table_name","label":"4 - Create Record➛Telework Case Table","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"3169ec5f-ea5f-4892-9ac1-75fa956fd140.record","label":"4 - Create Record➛Telework Case Record","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"d5919252-f1f8-4409-867c-909d85e161eb.item","label":"3 - For Each➛Telework Multi Row Questions","reference_display":"Telework Multi Row Questions","type":"object","base_type":"object","attributes":{"pills_draggable_inside_block":"true","pills_draggable_outside_block":"false"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.telework_multi_row_questions","label":"1 - Get Catalog Variables➛telework_multi_row_questions","reference":"","reference_display":"telework_multi_row_questions","type":"array.object","base_type":"array.object","attributes":{"child_label":"Telework Multi Row Questions","child_type_label":"Object","child_type":"object","child_name":"telework_multi_row_questions"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.who_are_you_submitting_for","label":"1 - Get Catalog Variables➛who_are_you_submitting_for","reference":"","reference_display":"who_are_you_submitting_for","type":"choice","base_type":"choice","choices":[{"label":"A Few People","value":"a_few_people","order":100.0},{"label":"Just One Person","value":"just_one_person","order":100.0}],"attributes":{"catalogType":"5","catalogTypeLabel":"Select Box"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.record.number","label":"9 - Create Record➛Telework Case Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_snc_db_telewor_0_telework_case","column_name":"number"},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.__dont_treat_as_error__","label":"11 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.__action_status__","label":"11 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.table_name","label":"11 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"0c5196f3-ef88-4a8b-8269-6a7117d521d6.record","label":"11 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.__dont_treat_as_error__","label":"12 - Update Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.__action_status__","label":"12 - Update Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.table_name","label":"12 - Update Record➛Requested Item Table","reference":"sc_req_item","reference_display":"Requested Item","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8ae82793-1fec-4fbe-90c3-403d09c05713.record","label":"12 - Update Record➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.__dont_treat_as_error__","label":"9 - Create Record➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.__action_status__","label":"9 - Create Record➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.table_name","label":"9 - Create Record➛Telework Case Table","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fb01208e-ac22-4c62-a321-ab4b967f23d8.record","label":"9 - Create Record➛Telework Case Record","reference":"x_snc_db_telewor_0_telework_case","reference_display":"Telework Case","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.reason","label":"1 - Get Catalog Variables➛reason","reference":"","reference_display":"reason","type":"choice","base_type":"choice","choices":[{"label":"-- None --","value":"","order":100.0},{"label":"Emergency","value":"emergency","order":100.0},{"label":"Occasional","value":"occasional","order":100.0},{"label":"Medical","value":"medical","order":100.0},{"label":"Reasonable Accommodation","value":"reasonable_accommodation","order":100.0},{"label":"COVID","value":"covid","order":100.0}],"attributes":{"catalogType":"3","catalogTypeLabel":"Multiple Choice"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.how_many_days","label":"1 - Get Catalog Variables➛how_many_days","reference":"","reference_display":"how_many_days","type":"string","base_type":"string","attributes":{"catalogType":"6","catalogTypeLabel":"Single Line Text"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.what_arrangement_do_you_have","label":"1 - Get Catalog Variables➛what_arrangement_do_you_have","reference":"x_snc_db_telewor_0_arrangement","reference_display":"Arrangement","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.needed_by","label":"1 - Get Catalog Variables➛needed_by","reference":"","reference_display":"needed_by","type":"choice","base_type":"choice","choices":[{"label":"Today","value":"today","order":100.0},{"label":"Tomorrow","value":"tomorrow","order":100.0},{"label":"This week","value":"current_week","order":100.0},{"label":"Next Week","value":"next_week","order":100.0}],"attributes":{"catalogType":"5","catalogTypeLabel":"Select Box"}},{"name":"ebd582b0-ad42-4e93-b519-606a48221051.requested_for","label":"1 - Get Catalog Variables➛requested_for","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","attributes":{"catalogType":"8","catalogTypeLabel":"Reference"}},{"name":"Service Catalog_1.request_item","label":"Trigger - Service Catalog➛Requested Item Record","reference":"sc_req_item","reference_display":"Requested Item","type":"reference","base_type":"reference","attributes":{"default_search_field":"number"}},{"name":"ab8b7a79-892a-4e49-9e42-65572db71c09.email","label":"4 - Send SMS➛Email","reference":"sys_email","reference_display":"Email","type":"reference","base_type":"reference","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"138380a7-e484-4080-b196-b42d33aa57b0"}},{"name":"ab8b7a79-892a-4e49-9e42-65572db71c09.__action_status__","label":"4 - Send SMS➛Action Status","reference_display":"Action Status","type":"object","base_type":"object","attributes":{"uiType":"object","co_type_name":"FDACTIONSTATUS","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ab8b7a79-892a-4e49-9e42-65572db71c09.__dont_treat_as_error__","label":"4 - Send SMS➛Don\u0027t Treat as Error","reference_display":"Don\u0027t Treat as Error","type":"boolean","base_type":"boolean","attributes":{"uiType":"boolean","visible_in_ui":"false","action_error_output":"true","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Service Catalog_1.request_item.requested_for.mobile_phone","label":"Trigger - Service Catalog➛Requested Item Record➛Requested for➛Mobile phone","reference":"","reference_display":"Mobile phone","type":"ph_number","base_type":"ph_number","parent_table_name":"sys_user","column_name":"mobile_phone"}]</label_cache>
         <master>true</master>
         <name>Telework Catalog Item</name>
         <natlang/>
@@ -1258,7 +1439,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7329c61487a71950ee58fcc7dabb3553</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -1266,7 +1447,7 @@
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:27</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:29</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=7329c61487a71950ee58fcc7dabb3553"/>
@@ -1281,10 +1462,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:11:51</sys_created_on>
         <sys_id>8039c61487a71950ee58fcc7dabb35c5</sys_id>
-        <sys_mod_count>23</sys_mod_count>
+        <sys_mod_count>26</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:29</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:31</sys_updated_on>
         <trigger_definition display_value="Service Catalog">c43a1011c36813002841b63b12d3ae15</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -1321,7 +1502,7 @@
         <ancestor_component_id/>
         <ancestor_stage_id/>
         <ancestral_if_else_logic/>
-        <component_indexes>2,7</component_indexes>
+        <component_indexes>2,8</component_indexes>
         <duration>1970-01-02 00:00:00</duration>
         <flow display_value="Telework Catalog Item">7329c61487a71950ee58fcc7dabb3553</flow>
         <label>Received</label>
@@ -1331,10 +1512,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:11:51</sys_created_on>
         <sys_id>4039c61487a71950ee58fcc7dabb35c6</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-12-07 22:20:07</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:28</sys_updated_on>
         <type>standard</type>
         <value>received</value>
     </sys_hub_flow_stage>
@@ -1576,14 +1757,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:11:50</sys_created_on>
         <sys_id>8039c61487a71950ee58fcc7dabb3582</sys_id>
-        <sys_mod_count>13</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:27</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:29</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1659,14 +1840,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:11:50</sys_created_on>
         <sys_id>f729c61487a71950ee58fcc7dabb3555</sys_id>
-        <sys_mod_count>14</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_name/>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:27</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:29</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
@@ -1681,7 +1862,7 @@
     </sys_hub_flow_input>
     <sys_hub_flow_output action="delete_multiple" query="model=7329c61487a71950ee58fcc7dabb3553"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=7329c61487a71950ee58fcc7dabb3553"/>
-    <sys_hub_action_instance action="delete_multiple" query="flow=7329c61487a71950ee58fcc7dabb3553^sys_idNOT IN4839c61487a71950ee58fcc7dabb35b5,4839c61487a71950ee58fcc7dabb35bd,48d8233287ebdd10ee58fcc7dabb352c,8039c61487a71950ee58fcc7dabb35c3,80d8233287ebdd10ee58fcc7dabb3532,c839c61487a71950ee58fcc7dabb3593,ccd8233287ebdd10ee58fcc7dabb3524"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=7329c61487a71950ee58fcc7dabb3553^sys_idNOT IN4839c61487a71950ee58fcc7dabb35b5,4839c61487a71950ee58fcc7dabb35bd,48d8233287ebdd10ee58fcc7dabb352c,8039c61487a71950ee58fcc7dabb35c3,80d8233287ebdd10ee58fcc7dabb3532,8621143547ef6d50412ec035126d4315,c839c61487a71950ee58fcc7dabb3593,ccd8233287ebdd10ee58fcc7dabb3524,ce21143547ef6d50412ec035126d4323"/>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
@@ -1690,16 +1871,16 @@
         <comment/>
         <display_text/>
         <flow display_value="Telework Catalog Item">7329c61487a71950ee58fcc7dabb3553</flow>
-        <order>8</order>
+        <order>9</order>
         <parent_ui_id>188e73f4-222b-400e-849c-0a6f435e0910</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:11:51</sys_created_on>
         <sys_id>4839c61487a71950ee58fcc7dabb35b5</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:27</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:29</sys_updated_on>
         <ui_id>fb01208e-ac22-4c62-a321-ab4b967f23d8</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=4839c61487a71950ee58fcc7dabb35b5"/>
@@ -1752,16 +1933,16 @@
         <comment>comment request with telework number</comment>
         <display_text/>
         <flow display_value="Telework Catalog Item">7329c61487a71950ee58fcc7dabb3553</flow>
-        <order>9</order>
+        <order>11</order>
         <parent_ui_id>188e73f4-222b-400e-849c-0a6f435e0910</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:11:51</sys_created_on>
         <sys_id>4839c61487a71950ee58fcc7dabb35bd</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:27</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:29</sys_updated_on>
         <ui_id>0c5196f3-ef88-4a8b-8269-6a7117d521d6</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=4839c61487a71950ee58fcc7dabb35bd"/>
@@ -1810,11 +1991,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:11:51</sys_created_on>
         <sys_id>0039c61487a71950ee58fcc7dabb35bf</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-12-07 22:08:24</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:28</sys_updated_on>
         <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value>comments=Telework request created: ﻿{{fb01208e-ac22-4c62-a321-ab4b967f23d8.record.number}}.  Please navigate here and follow for more updates: https://db6tokyodemo.service-now.com/ecdemo?id=my_requests﻿</value>
+        <value>comments=Telework request created: {{fb01208e-ac22-4c62-a321-ab4b967f23d8.record.number}}.  Please navigate here and follow for more updates: {{8e117f82-9aad-4f28-a148-718bdea5e767.portal_journal}}</value>
     </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=4839c61487a71950ee58fcc7dabb35bd"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=4839c61487a71950ee58fcc7dabb35bd"/>
@@ -1826,16 +2007,16 @@
         <comment>comment request with telework number</comment>
         <display_text/>
         <flow display_value="Telework Catalog Item">7329c61487a71950ee58fcc7dabb3553</flow>
-        <order>5</order>
+        <order>6</order>
         <parent_ui_id>d5919252-f1f8-4409-867c-909d85e161eb</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-07 21:34:26</sys_created_on>
         <sys_id>48d8233287ebdd10ee58fcc7dabb352c</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:27</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:29</sys_updated_on>
         <ui_id>a84dd2e2-0980-45ee-bba4-8507085f877b</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=48d8233287ebdd10ee58fcc7dabb352c"/>
@@ -1884,11 +2065,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-07 21:34:26</sys_created_on>
         <sys_id>00d8233287ebdd10ee58fcc7dabb352e</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-12-07 22:08:24</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:28</sys_updated_on>
         <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value>comments=Telework request created:{{3169ec5f-ea5f-4892-9ac1-75fa956fd140.record.number}}.  Please navigate here and follow for more updates: https://db6tokyodemo.service-now.com/ecdemo?id=my_requests</value>
+        <value>comments=Telework request created:{{3169ec5f-ea5f-4892-9ac1-75fa956fd140.record.number}}.  Please navigate here and follow for more updates: {{7f6128c7-5662-4ed8-9e94-24eb5f526e88.portal_journal}}</value>
     </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=48d8233287ebdd10ee58fcc7dabb352c"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=48d8233287ebdd10ee58fcc7dabb352c"/>
@@ -1900,16 +2081,16 @@
         <comment>close request</comment>
         <display_text/>
         <flow display_value="Telework Catalog Item">7329c61487a71950ee58fcc7dabb3553</flow>
-        <order>10</order>
+        <order>12</order>
         <parent_ui_id>188e73f4-222b-400e-849c-0a6f435e0910</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:11:51</sys_created_on>
         <sys_id>8039c61487a71950ee58fcc7dabb35c3</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:27</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:29</sys_updated_on>
         <ui_id>8ae82793-1fec-4fbe-90c3-403d09c05713</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=8039c61487a71950ee58fcc7dabb35c3"/>
@@ -1988,16 +2169,16 @@
         <comment>close request</comment>
         <display_text/>
         <flow display_value="Telework Catalog Item">7329c61487a71950ee58fcc7dabb3553</flow>
-        <order>6</order>
+        <order>7</order>
         <parent_ui_id>d5919252-f1f8-4409-867c-909d85e161eb</parent_ui_id>
         <sys_class_name>sys_hub_action_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-07 21:34:26</sys_created_on>
         <sys_id>80d8233287ebdd10ee58fcc7dabb3532</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:27</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:29</sys_updated_on>
         <ui_id>72acafdf-d63d-464b-8ed1-5df9a0dbd113</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=80d8233287ebdd10ee58fcc7dabb3532"/>
@@ -2071,6 +2252,106 @@
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
         <action_inputs/>
+        <action_type display_value="Generate Table Record Link">1ed732212f0ad0901c43bed72799b695</action_type>
+        <action_type_parent display_value="Generate Table Record Link">693f2a212fc6d0901c43bed72799b688</action_type_parent>
+        <comment/>
+        <display_text/>
+        <flow display_value="Telework Catalog Item">7329c61487a71950ee58fcc7dabb3553</flow>
+        <order>5</order>
+        <parent_ui_id>d5919252-f1f8-4409-867c-909d85e161eb</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:28</sys_created_on>
+        <sys_id>8621143547ef6d50412ec035126d4315</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:29</sys_updated_on>
+        <ui_id>7f6128c7-5662-4ed8-9e94-24eb5f526e88</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=8621143547ef6d50412ec035126d4315"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>8621143547ef6d50412ec035126d4315</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:28</sys_created_on>
+        <sys_id>0621143547ef6d50412ec035126d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:28</sys_updated_on>
+        <value>Telework Case</value>
+        <variable display_value="Link Display Name">dad732212f0ad0901c43bed72799b6b1</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>8621143547ef6d50412ec035126d4315</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:28</sys_created_on>
+        <sys_id>c621143547ef6d50412ec035126d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:28</sys_updated_on>
+        <value>ecdemo</value>
+        <variable display_value="Portal URL Suffix">1ad732212f0ad0901c43bed72799b6b8</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=8621143547ef6d50412ec035126d4315"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>link_display_name</field>
+        <id>8621143547ef6d50412ec035126d4315</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:28</sys_created_on>
+        <sys_id>4a21143547ef6d50412ec035126d4316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:28</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>portal_url_suffix</field>
+        <id>8621143547ef6d50412ec035126d4315</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:28</sys_created_on>
+        <sys_id>0e21143547ef6d50412ec035126d4316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:28</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record_sysid</field>
+        <id>8621143547ef6d50412ec035126d4315</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:28</sys_created_on>
+        <sys_id>ce21143547ef6d50412ec035126d4316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:28</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value>{{3169ec5f-ea5f-4892-9ac1-75fa956fd140.record.sys_id}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>8621143547ef6d50412ec035126d4315</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:28</sys_created_on>
+        <sys_id>8221143547ef6d50412ec035126d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:28</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value>{{3169ec5f-ea5f-4892-9ac1-75fa956fd140.table_name}}</value>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=8621143547ef6d50412ec035126d4315"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=8621143547ef6d50412ec035126d4315"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
         <action_type display_value="Get Catalog Variables">330ba3abc31013002841b63b12d3aee8</action_type>
         <action_type_parent display_value="Get Catalog Variables">22f0b88cc3c632002841b63b12d3aeff</action_type_parent>
         <comment/>
@@ -2082,10 +2363,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-29 20:11:51</sys_created_on>
         <sys_id>c839c61487a71950ee58fcc7dabb3593</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:27</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:29</sys_updated_on>
         <ui_id>ebd582b0-ad42-4e93-b519-606a48221051</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=c839c61487a71950ee58fcc7dabb3593"/>
@@ -2170,10 +2451,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-07 21:34:26</sys_created_on>
         <sys_id>ccd8233287ebdd10ee58fcc7dabb3524</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>20</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:27</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:29</sys_updated_on>
         <ui_id>3169ec5f-ea5f-4892-9ac1-75fa956fd140</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=ccd8233287ebdd10ee58fcc7dabb3524"/>
@@ -2218,10 +2499,110 @@
     </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=ccd8233287ebdd10ee58fcc7dabb3524"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=ccd8233287ebdd10ee58fcc7dabb3524"/>
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_inputs/>
+        <action_type display_value="Generate Table Record Link">1ed732212f0ad0901c43bed72799b695</action_type>
+        <action_type_parent display_value="Generate Table Record Link">693f2a212fc6d0901c43bed72799b688</action_type_parent>
+        <comment/>
+        <display_text/>
+        <flow display_value="Telework Catalog Item">7329c61487a71950ee58fcc7dabb3553</flow>
+        <order>10</order>
+        <parent_ui_id>188e73f4-222b-400e-849c-0a6f435e0910</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:28</sys_created_on>
+        <sys_id>ce21143547ef6d50412ec035126d4323</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:29</sys_updated_on>
+        <ui_id>8e117f82-9aad-4f28-a148-718bdea5e767</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=ce21143547ef6d50412ec035126d4323"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>ce21143547ef6d50412ec035126d4323</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:28</sys_created_on>
+        <sys_id>0221143547ef6d50412ec035126d4326</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:28</sys_updated_on>
+        <value>ecdemo</value>
+        <variable display_value="Portal URL Suffix">1ad732212f0ad0901c43bed72799b6b8</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>ce21143547ef6d50412ec035126d4323</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:28</sys_created_on>
+        <sys_id>4e21143547ef6d50412ec035126d4325</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:28</sys_updated_on>
+        <value>Telework Case</value>
+        <variable display_value="Link Display Name">dad732212f0ad0901c43bed72799b6b1</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=ce21143547ef6d50412ec035126d4323"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>link_display_name</field>
+        <id>ce21143547ef6d50412ec035126d4323</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:28</sys_created_on>
+        <sys_id>8221143547ef6d50412ec035126d4325</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:28</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>portal_url_suffix</field>
+        <id>ce21143547ef6d50412ec035126d4323</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:28</sys_created_on>
+        <sys_id>4621143547ef6d50412ec035126d4325</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:28</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>record_sysid</field>
+        <id>ce21143547ef6d50412ec035126d4323</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:28</sys_created_on>
+        <sys_id>0a21143547ef6d50412ec035126d4325</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:28</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value>{{fb01208e-ac22-4c62-a321-ab4b967f23d8.record.sys_id}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table_name</field>
+        <id>ce21143547ef6d50412ec035126d4323</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:29:28</sys_created_on>
+        <sys_id>ca21143547ef6d50412ec035126d4325</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:28</sys_updated_on>
+        <table>var__m_sys_hub_action_input_1ed732212f0ad0901c43bed72799b695</table>
+        <value>{{fb01208e-ac22-4c62-a321-ab4b967f23d8.table_name}}</value>
+    </sys_element_mapping>
+    <sys_hub_input_scripts action="delete_multiple" query="instance=ce21143547ef6d50412ec035126d4323"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=ce21143547ef6d50412ec035126d4323"/>
     <sys_hub_sub_flow_instance action="delete_multiple" query="flow=7329c61487a71950ee58fcc7dabb3553"/>
     <sys_hub_flow_logic action="delete_multiple" query="flow=7329c61487a71950ee58fcc7dabb3553^sys_idNOT IN48d8233287ebdd10ee58fcc7dabb3551,4cd8233287ebdd10ee58fcc7dabb3558,cd43b736872fdd10ee58fcc7dabb359d"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">efb82ffe87abdd10ee58fcc7dabb3541</block>
+        <block display_value="">e911dcf147ef6d50412ec035126d43e3</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -2242,10 +2623,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-07 21:34:26</sys_created_on>
         <sys_id>48d8233287ebdd10ee58fcc7dabb3551</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:27</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:29</sys_updated_on>
         <ui_id>01390e54-6e29-446b-b1bb-ef8d10221aed</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2293,7 +2674,7 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=48d8233287ebdd10ee58fcc7dabb3551"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=48d8233287ebdd10ee58fcc7dabb3551"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">e3b82ffe87abdd10ee58fcc7dabb3548</block>
+        <block display_value="">e511dcf147ef6d50412ec035126d43ea</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -2314,10 +2695,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-07 21:34:27</sys_created_on>
         <sys_id>4cd8233287ebdd10ee58fcc7dabb3558</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>12</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:27</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:29</sys_updated_on>
         <ui_id>d5919252-f1f8-4409-867c-909d85e161eb</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2339,7 +2720,7 @@
     <sys_hub_flow_logic_ext_input action="delete_multiple" query="model=4cd8233287ebdd10ee58fcc7dabb3558"/>
     <sys_hub_input_scripts action="delete_multiple" query="instance=4cd8233287ebdd10ee58fcc7dabb3558"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">a5037ff2872fdd10ee58fcc7dabb35ec</block>
+        <block display_value="">a111103547ef6d50412ec035126d430b</block>
         <comment>If only for one person</comment>
         <connected_to>01390e54-6e29-446b-b1bb-ef8d10221aed</connected_to>
         <decision_table/>
@@ -2351,7 +2732,7 @@
         <flow_variables_assigned/>
         <inputs/>
         <logic_definition display_value="Else">1f781bf3c32232002841b63b12d3aee6</logic_definition>
-        <order>7</order>
+        <order>8</order>
         <outputs_assigned/>
         <outputs_to_assign/>
         <parent_ui_id/>
@@ -2359,10 +2740,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-12-07 22:20:07</sys_created_on>
         <sys_id>cd43b736872fdd10ee58fcc7dabb359d</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-25 01:21:27</sys_updated_on>
+        <sys_updated_on>2023-06-20 23:29:29</sys_updated_on>
         <ui_id>188e73f4-222b-400e-849c-0a6f435e0910</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -2425,6 +2806,25 @@
     <sys_hub_flow action="UPDATE">
         <sys_id>e543821887671950ee58fcc7dabb3519</sys_id>
         <latest_snapshot>7329c61487a71950ee58fcc7dabb3553</latest_snapshot>
-        <compiler_build>glide-tokyo-07-08-2022__patch7-02-16-2023_02-28-2023_1844.zip</compiler_build>
+        <compiler_build>glide-utah-12-21-2022__patch5-07-06-2023_07-23-2023_0036.zip</compiler_build>
     </sys_hub_flow>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=e543821887671950ee58fcc7dabb3519^sys_idNOT IN1039c61487a71950ee58fcc7dabb35f6"/>
+    <sys_flow_trigger_plan action="INSERT_OR_UPDATE">
+        <binding_strategy>com.snc.process_flow.engine.binding.RunAlways</binding_strategy>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_trigger_plan","id":"1039c61487a71950ee58fcc7dabb35f6","name":"plan","plan_signature":null}}</plan>
+        <plan_id>e543821887671950ee58fcc7dabb3519</plan_id>
+        <snapshot>518d0cad97ac7910fd9976c71153af1e</snapshot>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-29 20:11:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1039c61487a71950ee58fcc7dabb35f6</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_overrides/>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:29:31</sys_updated_on>
+        <trigger display_value="">1839c61487a71950ee58fcc7dabb35f5</trigger>
+    </sys_flow_trigger_plan>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=e543821887671950ee58fcc7dabb3519"/>
 </record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Article page">a990f6ba16c3a59059cbe1d258879e82</macroponent>
+        <name>Show Delete Comment Alert</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({
+    api
+}) {
+    api.emit("NOW_UXF_PAGE#ADD_NOTIFICATIONS", {
+        items: [{
+            id: "deleteCommentAlert",
+            status: "info",
+            icon: "info-circle-outline",
+            content: "Comment deleted.",
+            action: {
+                type: "dismiss"
+            }
+        }],
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-05-30 17:08:36</sys_created_on>
+        <sys_id>2190f6bac1c3a590eb9cf1d9b648e57d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show Delete Comment Alert</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_ux_client_script_2190f6bac1c3a590eb9cf1d9b648e57d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-05-30 17:08:36</sys_updated_on>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

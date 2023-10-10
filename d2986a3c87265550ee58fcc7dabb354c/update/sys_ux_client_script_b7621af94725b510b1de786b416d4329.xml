@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Telework Case Record Page">608ca58e8724a1d47eabca25dabb3507</macroponent>
+        <name>viewport_gph/initiallyCollapsed</name>
+        <preset/>
+        <required_translations/>
+        <script><![CDATA[function script({api, event}) {  }]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-28 18:59:51</sys_created_on>
+        <sys_id>b7621af94725b510b1de786b416d4329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>viewport_gph/initiallyCollapsed</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_ux_client_script_b7621af94725b510b1de786b416d4329</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-28 18:59:51</sys_updated_on>
+        <target>macroponent</target>
+        <type>transform</type>
+    </sys_ux_client_script>
+</record_update>

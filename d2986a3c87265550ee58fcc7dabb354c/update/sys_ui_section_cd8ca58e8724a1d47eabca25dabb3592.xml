@@ -1,254 +1,296 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="cd8ca58e8724a1d47eabca25dabb3592" sys_domain="global" table="x_snc_db_telewor_0_telework_case" version="3" view="Workspace-Telework-Case-2023-0">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assignment_group</element>
+            <element>additional_assignee_list</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>7184163987ca6950ee58fcc7dabb35b7</sys_id>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>4cf717d69309f150214cb45e1dba10df</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>assigned_to</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>f984163987ca6950ee58fcc7dabb35b7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>additional_assignee_list</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>fd84163987ca6950ee58fcc7dabb35b7</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>opened_by</element>
-            <position>3</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>f184163987ca6950ee58fcc7dabb35b8</sys_id>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>84f717d69309f150214cb45e1dba10e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>arrangement</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>f584163987ca6950ee58fcc7dabb35b8</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>reason</element>
-            <position>5</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>f984163987ca6950ee58fcc7dabb35b8</sys_id>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>88f717d69309f150214cb45e1dba10e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>6</position>
+            <element>arrangement</element>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>fd84163987ca6950ee58fcc7dabb35b8</sys_id>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>8cf717d69309f150214cb45e1dba10e0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>f184163987ca6950ee58fcc7dabb35b9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
-            <position>8</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>f584163987ca6950ee58fcc7dabb35b9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>approval</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>f984163987ca6950ee58fcc7dabb35b9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>number_of_days</element>
-            <position>10</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>fd84163987ca6950ee58fcc7dabb35b9</sys_id>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>80f717d69309f150214cb45e1dba10e1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>need_ai_summary</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>84f717d69309f150214cb45e1dba10e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ka_to_summarize</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>88f717d69309f150214cb45e1dba10e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>8cf717d69309f150214cb45e1dba10e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>80f717d69309f150214cb45e1dba10e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>84f717d69309f150214cb45e1dba10e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>88f717d69309f150214cb45e1dba10e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>8cf717d69309f150214cb45e1dba10e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>80f717d69309f150214cb45e1dba10e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>co_approval</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>84f717d69309f150214cb45e1dba10e3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>parent</element>
-            <position>11</position>
+            <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>f184163987ca6950ee58fcc7dabb35ba</sys_id>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>88f717d69309f150214cb45e1dba10e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>12</position>
+            <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>f584163987ca6950ee58fcc7dabb35ba</sys_id>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>8cf717d69309f150214cb45e1dba10e3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>13</position>
+            <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>f984163987ca6950ee58fcc7dabb35ba</sys_id>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>80f717d69309f150214cb45e1dba10e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>14</position>
+            <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>fd84163987ca6950ee58fcc7dabb35ba</sys_id>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>84f717d69309f150214cb45e1dba10e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>comments</element>
-            <position>15</position>
+            <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>f184163987ca6950ee58fcc7dabb35bb</sys_id>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>88f717d69309f150214cb45e1dba10e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>work_notes</element>
-            <position>16</position>
+            <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>f584163987ca6950ee58fcc7dabb35bb</sys_id>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>8cf717d69309f150214cb45e1dba10e4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>activity.xml</element>
-            <position>17</position>
+            <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-04-07 19:29:15</sys_created_on>
-            <sys_id>f984163987ca6950ee58fcc7dabb35bb</sys_id>
+            <sys_created_on>2023-09-05 16:49:06</sys_created_on>
+            <sys_id>80f717d69309f150214cb45e1dba10e5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
             <sys_ui_section caption="NULL" display_value="" name="x_snc_db_telewor_0_telework_case" sys_domain="global" view="0e7ce18e2924a1d4f8116634bdc9f481">cd8ca58e8724a1d47eabca25dabb3592</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-04-07 19:29:15</sys_updated_on>
+            <sys_updated_on>2023-09-05 16:49:06</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>

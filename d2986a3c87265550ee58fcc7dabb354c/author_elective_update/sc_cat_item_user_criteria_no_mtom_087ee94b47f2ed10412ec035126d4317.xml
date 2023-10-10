@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="">0c7ea94b47f2ed10412ec035126d43ae</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-18 20:42:19</sys_created_on>
+        <sys_id>087ee94b47f2ed10412ec035126d4317</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test 3.SNC External</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_087ee94b47f2ed10412ec035126d4317</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-18 20:42:19</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>5b1b945edbf1ed9442b321c4059619f5</instance_id>
+        <instance_name>db8utahdemo</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_087ee94b47f2ed10412ec035126d4317</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="">0c7ea94b47f2ed10412ec035126d43ae</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-18 20:42:19</sys_created_on><sys_id>087ee94b47f2ed10412ec035126d4317</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test 3.SNC External</sys_name><sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package><sys_policy/><sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_087ee94b47f2ed10412ec035126d4317</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-18 20:42:19</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>-2142542276</payload_hash>
+        <record_name>Test 3.SNC External</record_name>
+        <reverted_from/>
+        <source>3af36b0047322110f61f4a05126d430d</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-05-09 21:34:06</sys_created_on>
+        <sys_id>bfa731f6478f6590f61f4a05126d4306</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>188026f90b00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>7fa731f6c08f6590a9c56ce0a656c406</update_guid>
+        <update_guid_history>7fa731f6c08f6590a9c56ce0a656c406:-2142542276</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Test 3.SNC External">bba731f6478f6590f61f4a05126d436c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-30 12:59:56</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>107f61d317c840ca89543023d6509d04</sys_id>
+        <sys_metadata>087ee94b47f2ed10412ec035126d4317</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test 3.SNC External</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_087ee94b47f2ed10412ec035126d4317</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_087ee94b47f2ed10412ec035126d4317">bfa731f6478f6590f61f4a05126d4306</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-30 12:59:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

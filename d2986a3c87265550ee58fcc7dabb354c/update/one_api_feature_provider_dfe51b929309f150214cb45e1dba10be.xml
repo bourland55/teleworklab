@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_feature_provider">
+    <one_api_feature_provider action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <feature display_value="11b27d0c530221106b38ddeeff7b129f">dfe51b929309f150214cb45e1dba1070</feature>
+        <feature_service display_value="OneExtendGenericProvider">5233278353111110c271ddeeff7b129b</feature_service>
+        <feature_service_factory><![CDATA[(function() { return new global.OneExtendGenericProvider(); })()]]></feature_service_factory>
+        <name>Generate Content provider</name>
+        <short_description>Auto Generated </short_description>
+        <sys_class_name>one_api_feature_provider</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-05 16:40:18</sys_created_on>
+        <sys_id>dfe51b929309f150214cb45e1dba10be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Generate Content provider</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>one_api_feature_provider_dfe51b929309f150214cb45e1dba10be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-05 16:40:18</sys_updated_on>
+        <type>FDIH Subflow</type>
+        <type_document display_value="OpenAI Chat Completions">3b6a84c4878621104f1c8f59dabb3525</type_document>
+    </one_api_feature_provider>
+</record_update>

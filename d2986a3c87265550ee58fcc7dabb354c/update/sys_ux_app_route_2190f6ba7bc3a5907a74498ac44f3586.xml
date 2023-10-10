@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Telework Request LAB Config">d190f6ba47c3a590f61f4a05126d4342</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Security and login</name>
+        <optional_parameters/>
+        <order>100</order>
+        <parent_macroponent display_value="Settings Page">2990f6ba0ac3a590af716399afec4d87</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>cketv4vef00013g8ybmju8dpb</route_type>
+        <screen_type display_value="Security and login">a190f6baebc3a590a1160e98e85e7787</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-05-30 17:08:35</sys_created_on>
+        <sys_id>2190f6ba7bc3a5907a74498ac44f3586</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Security and login</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_ux_app_route_2190f6ba7bc3a5907a74498ac44f3586</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-05-30 17:08:35</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=2190f6ba7bc3a5907a74498ac44f3586"/>
+</record_update>

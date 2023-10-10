@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action_layout">
+    <sys_ux_form_action_layout action="INSERT_OR_UPDATE">
+        <action_config display_value="Telework Request LAB  Action Config">8ada68fa47f3e950412ec035126d4304</action_config>
+        <active>true</active>
+        <description/>
+        <name>Telework Request LAB  Actions Layout</name>
+        <specificity>257</specificity>
+        <sys_class_name>sys_ux_form_action_layout</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-06 14:11:19</sys_created_on>
+        <sys_id>06da68fa47f3e950412ec035126d4318</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Telework Request LAB  Actions Layout</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_ux_form_action_layout_06da68fa47f3e950412ec035126d4318</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-06 14:11:19</sys_updated_on>
+        <table>x_snc_db_telewor_0_telework_case</table>
+    </sys_ux_form_action_layout>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_user_metadata">
+    <par_dashboard_user_metadata action="INSERT_OR_UPDATE">
+        <created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user>
+        <created_on>2022-05-29 16:29:20</created_on>
+        <dashboard display_value="Telework Request Aug Lab">2ecbe4de5b38f1d0a374c2b0149188ae</dashboard>
+        <last_updated_on>2023-08-23 18:11:36</last_updated_on>
+        <requested_by_user/>
+        <sys_class_name>par_dashboard_user_metadata</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 18:01:17</sys_created_on>
+        <sys_id>eacbe4de6c38f1d0defcda72ae1bf9af</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>par_dashboard_user_metadata_eacbe4de6c38f1d0defcda72ae1bf9af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 18:11:36</sys_updated_on>
+        <updated_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</updated_by_user>
+    </par_dashboard_user_metadata>
+</record_update>

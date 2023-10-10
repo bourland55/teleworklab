@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="DELETE">
+        <decision_table display_value="Assignment Groups for Telework">c73df2f4872a5550ee58fcc7dabb35c3</decision_table>
+        <label>Assignment Group: Telework Remote</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-12 20:25:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>67008ff8872a5550ee58fcc7dabb35f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assignment Group: Telework Remote</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_decision_multi_result_67008ff8872a5550ee58fcc7dabb35f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-12 20:25:44</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="DELETE" query="document_key=67008ff8872a5550ee58fcc7dabb35f4"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_decision_multi_result</document>
+        <document_key>67008ff8872a5550ee58fcc7dabb35f4</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-12 20:25:44</sys_created_on>
+        <sys_id>ef008ff8872a5550ee58fcc7dabb35f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-12 20:25:44</sys_updated_on>
+        <value>7f9f3e38872a5550ee58fcc7dabb35b4</value>
+        <variable display_value="Assignment Group">4e2e3e38872a5550ee58fcc7dabb3530</variable>
+    </sys_variable_value>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>5b1b945edbf1ed9442b321c4059619f5</instance_id>
+        <instance_name>db8utahdemo</instance_name>
+        <name>sys_decision_multi_result_67008ff8872a5550ee58fcc7dabb35f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_multi_result">
+    <sys_decision_multi_result action="INSERT_OR_UPDATE">
+        <decision_table display_value="Assignment Groups for Telework">c73df2f4872a5550ee58fcc7dabb35c3</decision_table>
+        <label>Assignment Group: Telework Remote</label>
+        <result_elements/>
+        <sys_class_name>sys_decision_multi_result</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-12 20:25:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>67008ff8872a5550ee58fcc7dabb35f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assignment Group: Telework Remote</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_decision_multi_result_67008ff8872a5550ee58fcc7dabb35f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-12 20:25:44</sys_updated_on>
+    </sys_decision_multi_result>
+    <sys_variable_value action="delete_multiple" query="document_key=67008ff8872a5550ee58fcc7dabb35f4"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_decision_multi_result</document>
+        <document_key>67008ff8872a5550ee58fcc7dabb35f4</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-12 20:25:44</sys_created_on>
+        <sys_id>ef008ff8872a5550ee58fcc7dabb35f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-10-12 20:25:44</sys_updated_on>
+        <value>7f9f3e38872a5550ee58fcc7dabb35b4</value>
+        <variable display_value="Assignment Group">4e2e3e38872a5550ee58fcc7dabb3530</variable>
+    </sys_variable_value>
+</record_update>]]></payload>
+        <payload_hash>749335812</payload_hash>
+        <record_name>Assignment Group: Telework Remote</record_name>
+        <reverted_from/>
+        <source>e5e31e0b471a2d90f61f4a05126d434a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-24 02:55:03</sys_created_on>
+        <sys_id>cc049a4b471a2d90f61f4a05126d4344</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187b12fa7970000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-24 02:55:03</sys_updated_on>
+        <type>Decision Table Multiple Result</type>
+        <update_guid>8c049a4b701a2d9072c5f2a06990fa44</update_guid>
+        <update_guid_history>8c049a4b701a2d9072c5f2a06990fa44:749335812</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:52:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_decision_multi_result">sys_decision_multi_result</sys_db_object>
+        <sys_id>9ad2d880afea4942838f11b955d1c4e4</sys_id>
+        <sys_metadata>67008ff8872a5550ee58fcc7dabb35f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Assignment Group: Telework Remote</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>sys_decision_multi_result_67008ff8872a5550ee58fcc7dabb35f4</sys_update_name>
+        <sys_update_version display_value="sys_decision_multi_result_67008ff8872a5550ee58fcc7dabb35f4">cc049a4b471a2d90f61f4a05126d4344</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:52:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

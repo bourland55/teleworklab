@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="faa966fc87265550ee58fcc7dabb352f" extends="task" label="Telework Case" max_length="40" name="x_snc_db_telewor_0_telework_case" text_index="true" type="collection">
+        <element label="AI Summary" max_length="5000" name="ai_summary_and_poem" type="string"/>
         <element label="Arrangement" max_length="32" name="arrangement" reference="x_snc_db_telewor_0_arrangement" type="reference"/>
+        <element choice="1" label="CO Approval" max_length="40" name="co_approval" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Yet Requested" sequence="0" value="not requested"/>
+                <element inactive_on_update="false" label="Requested" sequence="1" value="requested"/>
+                <element inactive_on_update="false" label="Approved" sequence="2" value="approved"/>
+                <element inactive_on_update="false" label="Rejected" sequence="3" value="rejected"/>
+            </choice>
+        </element>
+        <element choice="1" label="Event Name" max_length="40" name="event_name" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Training" sequence="0" value="training"/>
+                <element inactive_on_update="false" label="Workshop" sequence="1" value="workshop"/>
+                <element inactive_on_update="false" label="App-a-thon" sequence="2" value="app_a_thon"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Hardware Needed" max_length="40" name="hardware_needed" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Laptop" sequence="0" value="laptop"/>
@@ -8,15 +24,12 @@
                 <element inactive_on_update="false" label="Mouse" sequence="2" value="mouse"/>
             </choice>
         </element>
+        <element label="KA to Summarize" max_length="32" name="ka_to_summarize" reference="kb_knowledge" type="reference"/>
+        <element label="AI Content" max_length="4000" name="knowledge_summary" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Needs Attention" max_length="40" name="needs_attentio0" type="string">
             <choice/>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="New Field April" max_length="40" name="new_field_april" type="string">
-            <choice>
-                <element inactive_on_update="false" label="Yes" sequence="0" value="Yes"/>
-                <element inactive_on_update="false" label="No" sequence="1" value="No"/>
-            </choice>
-        </element>
+        <element hint="Click on 'Save' when complete" label="Need KB AI Summary" max_length="255" name="need_ai_summary" type="boolean"/>
         <element label="Number of Days" max_length="40" name="number_of_days" type="integer"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Reason" max_length="40" name="reason" type="choice">
             <choice>
@@ -24,7 +37,8 @@
                 <element inactive_on_update="false" label="Occasional" sequence="1" value="occasional"/>
                 <element inactive_on_update="false" label="Medical" sequence="2" value="medical"/>
                 <element inactive_on_update="false" label="Reasonable Accommodation" sequence="3" value="reasonable_accommodation"/>
-                <element inactive_on_update="false" label="COVID" sequence="4" value="covid"/>
+                <element inactive_on_update="false" label="Dependent Care" sequence="4" value="dependent_care"/>
+                <element inactive_on_update="false" label="COVID" sequence="5" value="covid"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Reason for Telework" max_length="40" name="reason_for_telework" type="string"/>

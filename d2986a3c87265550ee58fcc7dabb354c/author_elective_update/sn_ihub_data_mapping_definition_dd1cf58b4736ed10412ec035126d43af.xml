@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition">
+    <sn_ihub_data_mapping_definition action="DELETE">
+        <integration_table>sys_data_source</integration_table>
+        <published_source_structure/>
+        <record_id>c3bb318b4736ed10412ec035126d431d</record_id>
+        <source_structure display_value="FD743fd64427300110edc1abc7c7872f1e">191cf58b4736ed10412ec035126d43ac</source_structure>
+        <sys_class_name>sn_ihub_data_mapping_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-18 21:41:57</sys_created_on>
+        <sys_id>dd1cf58b4736ed10412ec035126d43af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sn_ihub_data_mapping_definition_dd1cf58b4736ed10412ec035126d43af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-18 21:41:57</sys_updated_on>
+    </sn_ihub_data_mapping_definition>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>5b1b945edbf1ed9442b321c4059619f5</instance_id>
+        <instance_name>db8utahdemo</instance_name>
+        <name>sn_ihub_data_mapping_definition_dd1cf58b4736ed10412ec035126d43af</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_data_mapping_definition"><sn_ihub_data_mapping_definition action="INSERT_OR_UPDATE"><integration_table>sys_data_source</integration_table><published_source_structure/><record_id>c3bb318b4736ed10412ec035126d431d</record_id><source_structure display_value="FD743fd64427300110edc1abc7c7872f1e">191cf58b4736ed10412ec035126d43ac</source_structure><sys_class_name>sn_ihub_data_mapping_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-18 21:41:57</sys_created_on><sys_id>dd1cf58b4736ed10412ec035126d43af</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package><sys_policy/><sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope><sys_update_name>sn_ihub_data_mapping_definition_dd1cf58b4736ed10412ec035126d43af</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-18 21:41:57</sys_updated_on></sn_ihub_data_mapping_definition></record_update>]]></payload>
+        <payload_hash>-482165607</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>91a4d2cf47d62d90f61f4a05126d437f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-18 21:41:57</sys_created_on>
+        <sys_id>151cf58b4736ed10412ec035126d43b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18830cffd570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-18 21:41:57</sys_updated_on>
+        <type>Integration Data Mapping Definition</type>
+        <update_guid>191cf58bb536ed1067ad218f96a978b1</update_guid>
+        <update_guid_history>191cf58bb536ed1067ad218f96a978b1:-482165607</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">09f41cf94723a190f61f4a05126d4372</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-06-20 23:46:03</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_data_mapping_definition">sn_ihub_data_mapping_definition</sys_db_object>
+        <sys_id>5a5fcbf02c454d22bd6b5166e94e82a9</sys_id>
+        <sys_metadata>dd1cf58b4736ed10412ec035126d43af</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>sn_ihub_data_mapping_definition_dd1cf58b4736ed10412ec035126d43af</sys_update_name>
+        <sys_update_version display_value="sn_ihub_data_mapping_definition_dd1cf58b4736ed10412ec035126d43af">151cf58b4736ed10412ec035126d43b2</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:46:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

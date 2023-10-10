@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>workspace-telework-request-aug-lab-0</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 18:01:17</sys_created_on>
+        <sys_id>e2cbe4de6638f1d0703a5d44fcb131ac</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Workspace Telework Request Aug Lab 0</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_ui_view_e2cbe4de6638f1d0703a5d44fcb131ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 18:01:23</sys_updated_on>
+        <title>Workspace Telework Request Aug Lab 0</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

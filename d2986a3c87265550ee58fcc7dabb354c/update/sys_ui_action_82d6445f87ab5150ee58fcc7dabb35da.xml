@@ -26,19 +26,30 @@
         <list_link>false</list_link>
         <list_save_with_form_button>false</list_save_with_form_button>
         <list_style/>
-        <messages/>
-        <name>SubFlow</name>
+        <messages>user will need to complete the task assigned</messages>
+        <name>Add Manager</name>
         <onclick/>
         <order>100</order>
-        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
-    // Replace "subflow_name" with the name of the subflow you want to execute
-    var subflow = new GlideFlow('testing_openai');
-    // Set the current record as the input to the subflow
-    subflow.setRecord(current);
-    // Execute the subflow
-    subflow.startFlow();
-})(current, previous);
-]]></script>
+        <script><![CDATA[(function() {
+	
+	try {
+		var inputs = {};
+		inputs['current'] = current; // GlideRecord of table: x_snc_db_telewor_0_telework_case 
+
+		// Start Asynchronously: Uncomment to run in background. Code snippet will not have access to outputs.
+		// sn_fd.FlowAPI.getRunner().subflow('x_snc_db_telewor_0.test_universal_task_for_adding_manager').inBackground().withInputs(inputs).run();
+				
+		// Execute Synchronously: Run in foreground. Code snippet has access to outputs.
+		var result = sn_fd.FlowAPI.getRunner().subflow('x_snc_db_telewor_0.test_universal_task_for_adding_manager').inForeground().withInputs(inputs).run();
+		var outputs = result.getOutputs();
+
+		// Current subflow has no outputs defined.		
+	} catch (ex) {
+		var message = ex.getMessage();
+		gs.error(message);
+	}
+	gs.addInfoMessage('Please refresh Tasks related list to view new assigned task to add manager');
+})();]]></script>
         <show_insert>true</show_insert>
         <show_multiple_update>false</show_multiple_update>
         <show_query>false</show_query>
@@ -49,15 +60,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>82d6445f87ab5150ee58fcc7dabb35da</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>SubFlow</sys_name>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Add Manager</sys_name>
         <sys_overrides/>
         <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_update_name>sys_ui_action_82d6445f87ab5150ee58fcc7dabb35da</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-12-08 19:48:10</sys_updated_on>
+        <sys_updated_on>2023-08-01 14:04:08</sys_updated_on>
         <table>x_snc_db_telewor_0_telework_case</table>
         <ui11_compatible>true</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>

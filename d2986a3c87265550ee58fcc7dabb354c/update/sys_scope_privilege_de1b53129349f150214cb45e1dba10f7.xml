@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>read</operation>
+        <source_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-05 17:02:55</sys_created_on>
+        <sys_id>de1b53129349f150214cb45e1dba10f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_km_mr_st_kb_knowledge</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_scope_privilege_de1b53129349f150214cb45e1dba10f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-05 17:02:55</sys_updated_on>
+        <target_name>sn_km_mr_st_kb_knowledge</target_name>
+        <target_scope display_value="ServiceNow NowMobile App - Knowledge Management Screens and Launcher Screen">b3a70c8a530323004c36ddeeff7b124c</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>

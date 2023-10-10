@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <search_context_config display_value="Telework Request Aug Lab - Workspace Search">26cbe4deb738f1d093cb162c911ea5ad</search_context_config>
+        <source display_value="Telework Request Aug Lab - x_snc_telework_c_0_tele">63cba8de9738f1d0fd9976c71153af10</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 18:01:21</sys_created_on>
+        <sys_id>67cba8de9738f1d0fd9976c71153af13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_67cba8de9738f1d0fd9976c71153af13</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 18:01:21</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

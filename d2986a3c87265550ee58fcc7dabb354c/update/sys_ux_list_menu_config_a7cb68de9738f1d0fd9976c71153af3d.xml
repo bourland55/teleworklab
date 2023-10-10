@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Telework Request Aug Lab_menu_config</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 18:01:20</sys_created_on>
+        <sys_id>a7cb68de9738f1d0fd9976c71153af3d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Telework Request Aug Lab_menu_config</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_a7cb68de9738f1d0fd9976c71153af3d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 18:01:20</sys_updated_on>
+    </sys_ux_list_menu_config>
+</record_update>

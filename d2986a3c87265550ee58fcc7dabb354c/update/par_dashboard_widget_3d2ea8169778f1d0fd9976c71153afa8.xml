@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">66cbe4dea838f1d05d8d7d5d623203af</canvas>
+        <component display_value="">23051643b7e03010097cb81cde11a910</component>
+        <component_props>{"configVersion":"23.0.0-ci-SNAPSHOT","yAxisHidden":false,"yAxisPosition":"bottom","yAxisShowGrid":true,"xAxisWrapLabels":false,"xAxisMaxLabelSize":100,"xAxisTruncationType":"end","yAxisStyle":"clean","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendExpandToFit":false,"showDataLabels":false,"dataLabelPosition":"middle","showStackedValues":"none","showOverlappingLabels":false,"colorConfig":{"type":"default"},"newReporting":false,"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"Telework Case","sourceType":"table","tableOrViewName":"x_snc_telework_c_0_telework_case","filterQuery":"active=true","preferredVisualizations":["d24d53f60350de7a652caf3188a46ed2"],"id":"dGFibGV4X3NuY190ZWxld29ya19jXzBfdGVsZXdvcmtfY2FzZTE2OTI4MTQyMDM3NzI=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"headerTitle":"Cases by Priority","showBorder":true,"bareBorder":false,"telemetry":"null","showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4X3NuY190ZWxld29ya19jXzBfdGVsZXdvcmtfY2FzZTE2OTI4MTQyMDM3NzI=","id":"ZEdGaWJHVjRYM051WTE5MFpXeGxkMjl5YTE5alh6QmZkR1ZzWlhkdmNtdGZZMkZ6WlRFMk9USTRNVFF5TURNM056ST0xNjkyODE0MjA0NzYz","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"groupBy":[{"dataSource":"dGFibGV4X3NuY190ZWxld29ya19jXzBfdGVsZXdvcmtfY2FzZTE2OTI4MTQyMDM3NzI=","groupByField":"priority","isRange":false,"isChoice":true,"isPaBucket":false}],"disableRanges":false}],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"enableCustomEmptyState":false,"emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":"previous","period":"M","dateFormat":"default"}</component_props>
+        <h>17</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-23 18:11:36</sys_created_on>
+        <sys_id>3d2ea8169778f1d0fd9976c71153afa8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>par_dashboard_widget_3d2ea8169778f1d0fd9976c71153afa8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-23 18:11:36</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <x>0</x>
+        <y>12</y>
+    </par_dashboard_widget>
+</record_update>

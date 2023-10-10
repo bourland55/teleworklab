@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance">
+    <sn_ihub_integration_instance action="DELETE">
+        <description>My test</description>
+        <integration_table>sys_data_source</integration_table>
+        <integration_type>data_import</integration_type>
+        <internal_name/>
+        <name>Test 6</name>
+        <record_id>c3bb318b4736ed10412ec035126d431d</record_id>
+        <sys_class_name>sn_ihub_integration_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-18 21:40:25</sys_created_on>
+        <sys_id>0fbb318b4736ed10412ec035126d431b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Test 6</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sn_ihub_integration_instance_0fbb318b4736ed10412ec035126d431b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-18 21:40:25</sys_updated_on>
+    </sn_ihub_integration_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>5b1b945edbf1ed9442b321c4059619f5</instance_id>
+        <instance_name>db8utahdemo</instance_name>
+        <name>sn_ihub_integration_instance_0fbb318b4736ed10412ec035126d431b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_ihub_integration_instance"><sn_ihub_integration_instance action="INSERT_OR_UPDATE"><description>My test</description><integration_table>sys_data_source</integration_table><integration_type>data_import</integration_type><internal_name/><name>Test 6</name><record_id>c3bb318b4736ed10412ec035126d431d</record_id><sys_class_name>sn_ihub_integration_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-05-18 21:40:25</sys_created_on><sys_id>0fbb318b4736ed10412ec035126d431b</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Test 6</sys_name><sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package><sys_policy/><sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope><sys_update_name>sn_ihub_integration_instance_0fbb318b4736ed10412ec035126d431b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-05-18 21:40:25</sys_updated_on></sn_ihub_integration_instance></record_update>]]></payload>
+        <payload_hash>-1947322017</payload_hash>
+        <record_name>Test 6</record_name>
+        <reverted_from/>
+        <source>91a4d2cf47d62d90f61f4a05126d437f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-18 21:40:25</sys_created_on>
+        <sys_id>0bbb318b4736ed10412ec035126d4328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18830ce974b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-18 21:40:25</sys_updated_on>
+        <type>Data import</type>
+        <update_guid>0fbb318b4f36ed107500b9862e1dae27</update_guid>
+        <update_guid_history>0fbb318b4f36ed107500b9862e1dae27:-1947322017</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Test 6">77e49cb947ef6d50412ec035126d430a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:45:57</sys_created_on>
+        <sys_db_object display_value="" name="sn_ihub_integration_instance">sn_ihub_integration_instance</sys_db_object>
+        <sys_id>2ad42b758e8c4ac6b46a1014d0ced6e4</sys_id>
+        <sys_metadata>0fbb318b4736ed10412ec035126d431b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test 6</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>sn_ihub_integration_instance_0fbb318b4736ed10412ec035126d431b</sys_update_name>
+        <sys_update_version display_value="sn_ihub_integration_instance_0fbb318b4736ed10412ec035126d431b">0bbb318b4736ed10412ec035126d4328</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:45:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

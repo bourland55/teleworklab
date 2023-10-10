@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">c51da2b4de6655507dca14b70e7159df</canvas>
-        <component display_value="">b999eb8ac52f85df203e43cbf2352fde</component>
+        <component display_value="sn-component-filter">b999eb8ac52f85df203e43cbf2352fde</component>
         <component_props>{"filterId":"1ggan3j8g5mjbpcne4v8","filterName":"State","filterProperties":"{\"tablefields\":[{\"table\":{\"id\":\"x_snc_db_telewor_0_telework_case\",\"label\":\"Telework Case\",\"count\":6,\"hierarchy\":null},\"field\":{\"id\":\"state\",\"label\":\"State\",\"type\":\"choice\",\"reference\":null}}],\"defaults\":[],\"booleanLabels\":{},\"emptyOption\":null,\"maxElements\":500}","filterConfigurations":{}}</component_props>
         <h>3</h>
         <name/>
@@ -9,17 +9,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-26 17:58:13</sys_created_on>
         <sys_id>8f84e69d877e1110ee58fcc7dabb35c6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
         <sys_update_name>par_dashboard_widget_8f84e69d877e1110ee58fcc7dabb35c6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-26 17:58:13</sys_updated_on>
+        <sys_updated_on>2023-07-05 21:32:41</sys_updated_on>
         <visualization/>
-        <w>1</w>
-        <x>1</x>
+        <w>4</w>
+        <x>4</x>
         <y>0</y>
     </par_dashboard_widget>
 </record_update>

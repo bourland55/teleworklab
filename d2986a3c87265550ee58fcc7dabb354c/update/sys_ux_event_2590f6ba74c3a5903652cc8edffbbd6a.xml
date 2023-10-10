@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>NOW_UXF_PAGE#ADD_NOTIFICATIONS_RELAY_a190f6ba72c3a5906606230d8f647e69</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Page Add Notifications Relay (Preferences Default)</label>
+        <props>[{"name":"items","fieldType":"json","interfaceApiName":null,"label":"Items"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-05-30 17:08:34</sys_created_on>
+        <sys_id>2590f6ba74c3a5903652cc8edffbbd6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Page Add Notifications Relay (Preferences Default)</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_ux_event_2590f6ba74c3a5903652cc8edffbbd6a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-05-30 17:08:34</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=2590f6ba74c3a5903652cc8edffbbd6a"/>
+</record_update>

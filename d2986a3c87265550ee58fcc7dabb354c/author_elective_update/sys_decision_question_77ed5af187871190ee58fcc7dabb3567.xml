@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="DELETE">
+        <active>true</active>
+        <answer>b74e16f987871190ee58fcc7dabb351a</answer>
+        <condition table="var__m_sys_decision_input_490dde3987871190ee58fcc7dabb3508">u_telework_request.priority=1^u_telework_request.arrangementISNOTEMPTY^u_telework_request.reason=emergency^EQ<item display_value="1 - Critical" endquery="false" field="u_telework_request.priority" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="false" field="u_telework_request.arrangement" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item display_value="Emergency" endquery="false" field="u_telework_request.reason" goto="false" newquery="false" operator="=" or="false" value="emergency"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="Telework approval matrix">490dde3987871190ee58fcc7dabb3508</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_490dde3987871190ee58fcc7dabb3508</input_table>
+        <label>Telework approval matrix_100</label>
+        <order>100</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 17:01:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>77ed5af187871190ee58fcc7dabb3567</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Telework approval matrix_100</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_decision_question_77ed5af187871190ee58fcc7dabb3567</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 17:03:38</sys_updated_on>
+    </sys_decision_question>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</application>
+        <file_path/>
+        <instance_id>5b1b945edbf1ed9442b321c4059619f5</instance_id>
+        <instance_name>db8utahdemo</instance_name>
+        <name>sys_decision_question_77ed5af187871190ee58fcc7dabb3567</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>b74e16f987871190ee58fcc7dabb351a</answer>
+        <condition table="var__m_sys_decision_input_490dde3987871190ee58fcc7dabb3508">u_telework_request.priority=1^u_telework_request.arrangementISNOTEMPTY^u_telework_request.reason=emergency^EQ<item display_value="1 - Critical" endquery="false" field="u_telework_request.priority" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="false" field="u_telework_request.arrangement" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item display_value="Emergency" endquery="false" field="u_telework_request.reason" goto="false" newquery="false" operator="=" or="false" value="emergency"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="Telework approval matrix">490dde3987871190ee58fcc7dabb3508</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_490dde3987871190ee58fcc7dabb3508</input_table>
+        <label>Telework approval matrix_100</label>
+        <order>100</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-09 17:01:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>77ed5af187871190ee58fcc7dabb3567</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Telework approval matrix_100</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_update_name>sys_decision_question_77ed5af187871190ee58fcc7dabb3567</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-09 17:03:38</sys_updated_on>
+    </sys_decision_question>
+</record_update>]]></payload>
+        <payload_hash>279338027</payload_hash>
+        <record_name>Telework approval matrix_100</record_name>
+        <reverted_from/>
+        <source>e5e31e0b471a2d90f61f4a05126d434a</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-04-24 02:55:03</sys_created_on>
+        <sys_id>88049a4b471a2d90f61f4a05126d438b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187b12fa9230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-04-24 02:55:03</sys_updated_on>
+        <type>Decision</type>
+        <update_guid>48049a4b9f1a2d90b5b314431f4f428b</update_guid>
+        <update_guid_history>48049a4b9f1a2d90b5b314431f4f428b:279338027</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-20 23:53:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_decision_question">sys_decision_question</sys_db_object>
+        <sys_id>08ef637b454d4d7c87b2dba898c9e190</sys_id>
+        <sys_metadata>77ed5af187871190ee58fcc7dabb3567</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Telework approval matrix_100</sys_name>
+        <sys_package display_value="Telework Request LAB" source="x_snc_db_telewor_0">d2986a3c87265550ee58fcc7dabb354c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Telework Request LAB">d2986a3c87265550ee58fcc7dabb354c</sys_scope>
+        <sys_scope_delete display_value="">0ef663071e27404a98153369343407d9</sys_scope_delete>
+        <sys_update_name>sys_decision_question_77ed5af187871190ee58fcc7dabb3567</sys_update_name>
+        <sys_update_version display_value="sys_decision_question_77ed5af187871190ee58fcc7dabb3567">88049a4b471a2d90f61f4a05126d438b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-20 23:53:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
